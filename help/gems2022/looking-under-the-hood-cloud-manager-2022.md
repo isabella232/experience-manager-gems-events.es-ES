@@ -9,7 +9,7 @@ level: Beginner
 kt: 10470
 source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ El contenido se aplica tanto a Adobe Experience Manager as a Cloud Service como 
 
 ## Grabación del seminario web
 
-[!Vvídeo](https://video.tv.adobe.com/v/343876)
+>[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
