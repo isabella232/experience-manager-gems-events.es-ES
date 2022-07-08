@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 8a6bbf6fb09e9e9d8ce42c6474830792cadc3250
+source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 # Mirando bajo el capó - Cloud Manager 2022
 
-*Este seminario web se llevó a cabo del 15 de junio a las 3 pm UTC. Una vez disponible, publicaremos la grabación en esta [Subproceso contextual](https://adobe.ly/3O0rdzd)*
+*Este seminario web se llevó a cabo del 15 de junio a las 3 pm UTC. Consulte la grabación siguiente.*
 
 Descripción de la sesión: Explore las nuevas funciones lanzadas el año pasado, una actualización de los desarrollos entre bastidores y un vistazo al resto de 2022. Detalles sobre cómo funciona Cloud Manager bajo el capó y cómo un cliente puede aprovecharlo al máximo.  
 
 El contenido se aplica tanto a Adobe Experience Manager as a Cloud Service como a Managed Services Experience Manager, con especial atención al Cloud Service. Es adecuado para asistentes técnicos y no técnicos por igual. La exposición previa a Cloud Manager puede ayudar al contexto, pero no es necesaria.
+
+## Grabación del seminario web
+
+[!Vvídeo](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
