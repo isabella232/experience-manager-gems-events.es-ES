@@ -1,30 +1,36 @@
 ---
-title: hybris/AEM 5.6 eCommerce framework integration
-description: Learn about our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
+title: integración del marco de comercio electrónico de hybris/AEM 5.6
+description: Obtenga información sobre nuestra solución de integración para híbridos en AEM. Comenzamos con una descripción general de cómo se integra el conector con el marco de comercio electrónico y cuáles son los flujos de trabajo generales al utilizar esta solución. A continuación, profundizamos en cómo el conector puede ampliarse y/o personalizarse para adaptarse a las necesidades específicas del proyecto.
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: 5f483b84-db10-42a7-9d3f-e50d21468825
----
-# hybris/AEM 5.6 eCommerce framework integration{#hybris-aem-ecommerce-framework-integration}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 1%
 
-In this session, we present our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
+---
+
+# integración del marco de comercio electrónico de hybris/AEM 5.6{#hybris-aem-ecommerce-framework-integration}
+
+En esta sesión, presentamos nuestra solución de integración para los híbridos en AEM. Comenzamos con una descripción general de cómo se integra el conector con el marco de comercio electrónico y cuáles son los flujos de trabajo generales al utilizar esta solución. A continuación, profundizamos en cómo el conector puede ampliarse y/o personalizarse para adaptarse a las necesidades específicas del proyecto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Delivered May 13, 2013*
+*Enviado el 13 de mayo de 2013*
 
-**Presented by:**
+**Presentado por:**
 
-Felix Oghina, Adobe Product Developer
+Felix Oghina, desarrollador de productos de Adobe
 
-**Presenter slides**
+**Diapositivas del presentador**
 
-[Get File](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
+[Obtener archivo](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 
-## Related links {#related-links}
+## Vínculos relacionados {#related-links}
 
-[Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
+[Documentación](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

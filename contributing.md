@@ -1,53 +1,55 @@
-# Contributing
+---
+source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 100%
 
-Thanks for choosing to contribute!
+---
+# Contribución
 
-The following are a set of guidelines to follow when contributing to this project.
+¡Gracias por contribuir!
 
-## Code Of Conduct
+A continuación se ofrece un conjunto de directrices que deben seguirse al contribuir en este proyecto.
 
-This project adheres to the Adobe [code of conduct](code-of-conduct.md). By participating,
-you are expected to uphold this code. Please report unacceptable behavior to
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+## Código de conducta
 
-## Contributor Guide Documentation
+Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. Al participar, se espera que mantenga este código. Cualquier comportamiento inaceptable se debe notificar escribiendo a esta dirección de correo electrónico:
+[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)
 
-See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+## Documentación de la Guía de colaborador
 
-## Have A Question?
+Consulte la [Guía de colaborador](https://docs.adobe.com/content/help/es-es/contributor/contributor-guide/introduction.html).
 
-Start by filing an issue. The existing committers on this project work to reach
-consensus around project direction and issue solutions within issue threads
-(when appropriate).
+## ¿Tiene alguna pregunta?
 
-## Contributor License Agreement
+Cree una incidencia. Los encargados de este proyecto trabajan para alcanzar
+un consenso sobre la dirección del proyecto y solución de problemas dentro de los hilos de incidencias
+(cuando proceda).
 
-All third-party contributions to this project must be accompanied by a signed contributor
-license agreement. This gives Adobe permission to redistribute your contributions
-as part of the project. [Sign our CLA](http://opensource.adobe.com/cla.html). You
-only need to submit an Adobe CLA one time, so if you have submitted one previously,
-you are good to go!
+## Contrato de licencia de colaborador
 
-## Code Reviews
+Todas las contribuciones de terceros a este proyecto deben ir acompañadas por un contrato de licencia de colaborador firmado. Esto otorga permiso a Adobe para redistribuir sus contribuciones como parte del proyecto. [Firme nuestro contrato de licencia de colaborador](http://opensource.adobe.com/cla.html). Solo
+debe mandar un CLA de Adobe, así que si ya mandó uno en el pasado,
+con ese es suficiente.
 
-All submissions should come in the form of pull requests and need to be reviewed
-by project committers. Read [GitHub's pull request documentation](https://help.github.com/articles/about-pull-requests/)
-for more information on sending pull requests.
+## Revisiones de código
+
+Todas las solicitudes deben llegar en forma de solicitudes “pull” y el comité de proyectos deberá revisarlas. Consulte la [documentación de las solicitudes “pull”](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obtener más información sobre cómo enviar solicitudes “pull”.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## From Contributor To Committer
+## De Colaborador a Miembro del comité
 
-We love contributions from our community! If you'd like to go a step beyond contributor
-and become a committer with full write access and a say in the project, you must
-be invited to the project. The existing committers employ an internal nomination
-process that must reach lazy consensus (silence is approval) before invitations
-are issued. If you feel you are qualified and want to get more deeply involved,
-feel free to reach out to existing committers to have a conversation about that.
+¡Nos encantan las contribuciones de nuestra comunidad! Si desea ir un paso más allá del colaborador
+y convertirse en un Miembro del comité con acceso completo de escritura y voz en el proyecto, se le debe 
+invitar al proyecto. Los Miembros del comité actuales utilizan un método de candidatura interna
+que debe alcanzar un consenso básico (el silencio equivale a una aprobación) antes de emitir cualquier
+invitación. Si cree que está cualificado y desea participar en mayor profundidad,
+contacte con los Miembros del comité para hablar sobre eso.
 
-## Security Issues
+## Problemas de seguridad
 
-Security issues shouldn't be reported on this issue tracker. Instead, [file an issue to our security experts](https://helpx.adobe.com/security/alertus.html)
+Los problemas de seguridad no deben notificarse en este rastreador de problemas. En su lugar, [presente un problema a nuestros expertos en seguridad](https://helpx.adobe.com/es/security/alertus.html)

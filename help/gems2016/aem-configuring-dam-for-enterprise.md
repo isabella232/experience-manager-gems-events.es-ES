@@ -1,34 +1,40 @@
 ---
-title: Configuring the DAM for Enterprise
-description: This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+title: Configuración de DAM para Enterprise
+description: Esta sesión está diseñada para ayudar a los usuarios a mejorar el éxito aprovechando AEM Assets. Arnold Espos se centrará en los casos de uso de los clientes reales de DAM Enterprise, sus desafíos y las soluciones que se han creado para ayudarlos a aumentar el éxito que ven con DAM.   Los asistentes podrán comprender mejor cómo utilizar DAM en sus entornos. A través de estudios de casos de clientes reales, los asistentes que trabajan con clientes actuales de DAM podrán comprender las nuevas soluciones que ofrece esta oferta, lo que puede ayudar a sus flujos de trabajo existentes y a comprender la tecnología.
 uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: fad623ba-3a83-4944-ba54-dfde9b82cc84
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 6%
+
 ---
-# Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
-This session is designed to help users improve success leveraging [!DNL AEM Assets]. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
+# Configuración de DAM para Enterprise{#configuring-the-dam-for-enterprise}
 
-Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+Esta sesión está diseñada para ayudar a los usuarios a mejorar el aprovechamiento del éxito [!DNL AEM Assets]. Arnold Espos se centrará en los casos de uso de los clientes reales de DAM Enterprise, sus desafíos y las soluciones que se han creado para ayudarlos a aumentar el éxito que ven con DAM.
+
+Los asistentes podrán comprender mejor cómo utilizar DAM en sus entornos. A través de estudios de casos de clientes reales, los asistentes que trabajan con clientes actuales de DAM podrán comprender las nuevas soluciones que ofrece esta oferta, lo que puede ayudar a sus flujos de trabajo existentes y a comprender la tecnología.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*Delivered October 5, 2016*
+*Enviado el 5 de octubre de 2016*
 
-**Presented by:**
+**Presentado por:**
 
-* Arnold Espos, Sr. Product Manager, Adobe
-* Josh Ramirez, Head of Product, [!DNL AEM Assets], Adobe
-* Greg Klebus, Group Product Manager, Adobe
+* Arnold Espos, Gerente de Producto, Adobe
+* Josh Ramirez, Responsable de Producto, [!DNL AEM Assets], Adobe
+* Greg Klebus, Administrador de productos de grupo, Adobe
 
-**Presenter slides**
+**Diapositivas del presentador**
 
-[Get File](assets/assets-webinar-oct5final.pdf)
+[Obtener archivo](assets/assets-webinar-oct5final.pdf)
 
-## Related links {#related-links}
+## Vínculos relacionados {#related-links}
 
-* [AEM Assets Documentation Updates](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-* [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
-* [AEM 6.2 Desktop App Release Notes](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+* [Actualizaciones de documentación de AEM Assets](https://docs.adobe.com/content/docs/es/aem/recent-documentation-updates.html)
+* [Notas de la versión de AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
+* [Notas de la versión de la aplicación de escritorio de AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)

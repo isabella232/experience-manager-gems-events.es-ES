@@ -1,40 +1,46 @@
 ---
-title: SPA Editor SDK Deep Dive - Part 2 - Angular
-description: Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor.
+title: Análisis profundo del SDK del Editor de SPA - parte 2 - Angular
+description: Inmerso en el desarrollo de aplicaciones de una sola página que se pueden crear con el Editor de páginas de AEM.
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 5%
+
 ---
 
-# SPA Editor SDK Deep Dive - Part 2 - Angular{#spa-editor-sdk-deep-dive-part-angular}
 
-Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor. In this session, you will have access to the following content in regards to Angular:
+# Análisis profundo del SDK del Editor de SPA - parte 2 - Angular{#spa-editor-sdk-deep-dive-part-angular}
 
-* Considerations and recommendations about the structure of projects
-* Review of all the layers that compose the architecture of a project
-* Insight into the role of AEM and SPA components
-* Structure and key JSON fields of the model object
-* Useful code snippets
-* Tour of the components provided by the SDK
-* Key implementation details
+Inmerso en el desarrollo de aplicaciones de una sola página que se pueden crear con el Editor de páginas de AEM. En esta sesión, tendrá acceso al siguiente contenido con respecto al Angular:
+
+* Consideraciones y recomendaciones sobre la estructura de los proyectos
+* Revisión de todas las capas que componen la arquitectura de un proyecto
+* Perspectiva de la función de los componentes AEM y SPA
+* Estructura y campos JSON clave del objeto de modelo
+* Fragmentos de código útiles
+* Explicación de los componentes proporcionados por el SDK
+* Detalles clave de implementación
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*Delivered 11/21/18*
+*Entrega 21/11/18*
 
-Presented by: Artur Kudlacz, Developer, Adobe
+Presentado por: Artur Kudlacz, desarrollador, Adobe
 
-Presenter slides - 11/21/18
+Diapositivas del presentador - 21/11/18
 
-[Get File](assets/aem-gems-aem-spaeditorangular-112118.pdf)
+[Obtener archivo](assets/aem-gems-aem-spaeditorangular-112118.pdf)
 
-## Related links {#related-links}
+## Vínculos relacionados {#related-links}
 
-[Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Tutorial de fin de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=es)
 
-[Documentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentación](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[Sample - We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
+[Ejemplo: diario minorista](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

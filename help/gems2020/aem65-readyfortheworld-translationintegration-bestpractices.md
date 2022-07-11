@@ -1,28 +1,34 @@
 ---
-title: AEM 6.5 ready for the world - translation integration & best practices
-description: Learn about current AEM translation capabilities and best practices for managing multilingual web sites. Learn how to structure global websites, use language copies, live copies, and MSM. Achieve easier, faster, and more manageable content translation using advance features.
+title: 'AEM 6.5 listo para el mundo: integración de la traducción y prácticas recomendadas'
+description: Obtenga información sobre las capacidades de traducción AEM actuales y las prácticas recomendadas para administrar sitios web multilingües. Aprenda a estructurar sitios web globales, usar copias de idiomas, Live Copies y MSM. Consiga una traducción de contenido más fácil, rápida y manejable mediante funciones avanzadas.
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 3%
+
 ---
 
-# AEM 6.5 ready for the world - translation integration & best practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-This session presents current AEM translation capabilities and best practices for managing multilingual web sites. You learn how to structure global websites and use language copies, live copies, and MSM. The session also covers how to achieve easier, faster, and more manageable content translation using advance features.
+# AEM 6.5 listo para el mundo: integración de la traducción y prácticas recomendadas{#aem-ready-for-the-world-translation-integration-best-practices}
 
-**Presented by:**
+En esta sesión se presentan las capacidades AEM de traducción actuales y las prácticas recomendadas para administrar sitios web multilingües. Aprenda a estructurar sitios web globales y a utilizar copias de idiomas, Live Copies y MSM. La sesión también explica cómo lograr una traducción de contenido más fácil, rápida y manejable mediante funciones avanzadas.
 
-* Ankur Sial, Computer Scientist, Adobe
-* Harpreet Neelu, Program Manager, Adobe
+**Presentado por:**
+
+* Ankur Sial, Informático Científico, Adobe
+* Harpreet Neelu, Director de Programas, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*Delivered 01/22/2020*
+*Entrega 22/01/2020*
 
-**Presenter slides**
+**Diapositivas del presentador**
 
-[Get File](assets/gems-2020-translations.pdf)
+[Obtener archivo](assets/gems-2020-translations.pdf)
 
-Session Q and A - February 2020 PDF
+Sesión Q y A: PDF de febrero de 2020
 
-[Get File](assets/aem-gems-translationqnafeb2020.pdf)
+[Obtener archivo](assets/aem-gems-translationqnafeb2020.pdf)

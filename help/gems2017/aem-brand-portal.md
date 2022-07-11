@@ -1,36 +1,42 @@
 ---
-title: Major Brand Portal Release and new reference implementation for Asset Share
-description: Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we introduce you to the new Asset Share Commons from Adobe Assets.
+title: Versión principal de Brand Portal y nueva implementación de referencia para Asset Share
+description: Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión le presentamos el nuevo Asset Share Commons de Adobe Assets.
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
 exl-id: 01be713d-991e-4d72-b9d4-48af60793c54
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 1%
+
 ---
-# Major Brand Portal Release and new reference implementation for Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we will introduce you to the new Asset Share Commons from Adobe Assets. 
+# Versión principal de Brand Portal y nueva implementación de referencia para Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-You will learn:  
+Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión le presentaremos el nuevo Asset Share Commons de Adobe Assets.
 
-* What media portal options are available based upon use cases 
-* How to implement these options 
-* Best practices for insuring ease of use 
+Aprenderá:
+
+* Qué opciones del portal de medios están disponibles en función de los casos de uso
+* Implementación de estas opciones
+* Prácticas recomendadas para garantizar la facilidad de uso
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*Delivered November 8, 2017*
+*Enviado el 8 de noviembre de 2017*
 
-**Presented by:**
+**Presentado por:**
 
-Mike Carley, Product Marketing Manager - [!DNL AEM Assets], Adobe
+Mike Carley, responsable de marketing de producto - [!DNL AEM Assets], Adobe
 
-Krishna Selvaraj, Technical Marketing Engineer - AEM, Adobe
+Krishna Selvaraj, ingeniera técnica de marketing - AEM, Adobe
 
-Daniel Gordon, Technical Marketing Engineer - AEM, Adobe
+Daniel Gordon, ingeniero técnico de marketing - AEM, Adobe
 
-**Presenter slides**
+**Diapositivas del presentador**
 
-[Get File](assets/gems+bp-asset+share+nov+8+17+.pdf)
+[Obtener archivo](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

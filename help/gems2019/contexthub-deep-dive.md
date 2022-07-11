@@ -1,27 +1,33 @@
 ---
-title: Deep Dive on implementation details of stores, modules and segments in ContextHub
-description: This Gems sessions is dedicated to have a closer look on implementation details of ContextHub stores of different types, using different persistence layers. Custom modules implementation (both via code and configuration using base module renderer), as well as how to organize modules in separate ContextHub modes. Lastly, we will see how ContextHub segment traits are working, how to implement custom comparator and how to instantiate segments programatically.
+title: Análisis de los detalles de implementación de tiendas, módulos y segmentos en ContextHub
+description: Esta sesión de Gems está dedicada a conocer mejor los detalles de implementación de los almacenes de ContextHub de diferentes tipos, utilizando diferentes capas de persistencia. Implementación de módulos personalizados (mediante código y configuración mediante el procesador de módulos base), así como cómo organizar módulos en modos de ContextHub independientes. Por último, veremos cómo funcionan las características de los segmentos de ContextHub, cómo implementar el comparador personalizado y cómo crear instancias de segmentos mediante programación.
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 1%
+
 ---
 
-# Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-This Gems sessions is dedicated to have a closer look on implementation details of ContextHub stores of different types, using different persistence layers. Custom modules implementation (both via code and configuration using base module renderer), as well as how to organize modules in separate ContextHub modes. Lastly, we will see how ContextHub segment traits are working, how to implement custom comparator and how to instantiate segments programatically.
+# Análisis de los detalles de implementación de tiendas, módulos y segmentos en ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
+
+Esta sesión de Gems está dedicada a conocer mejor los detalles de implementación de los almacenes de ContextHub de diferentes tipos, utilizando diferentes capas de persistencia. Implementación de módulos personalizados (mediante código y configuración mediante el procesador de módulos base), así como cómo organizar módulos en modos de ContextHub independientes. Por último, veremos cómo funcionan las características de los segmentos de ContextHub, cómo implementar el comparador personalizado y cómo crear instancias de segmentos mediante programación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*Delivered 03/20/19*
+*Entrega 20/03/19*
 
-**Presented by:** Artur Kudlacz, Developer, Adobe
+**Presentado por:** Artur Kudlacz, desarrollador, Adobe
 
-Presenter slides, Date: 03/20/2019
+Diapositivas del presentador, Fecha: 20/3/2019
 
-[Get File](assets/aem-gems-contexthubdeepdive-03202019.pdf)
+[Obtener archivo](assets/aem-gems-contexthubdeepdive-03202019.pdf)
 
-ContextHub sample package:  
+Paquete de muestra de ContextHub:
 
-Artur's mentioned ContextHub sample package is available on:  
+El paquete de muestra de ContextHub mencionado de Artur está disponible en:
 
 [https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)
