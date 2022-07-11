@@ -1,37 +1,31 @@
 ---
-title: 'Conector de SharePoint: configuración'
-description: 'Obtenga una guía paso a paso sobre cómo configurar un conector de uso compartido con CQ/AEM (5.6.0), junto con una demostración de algunos ejemplos. El conector SharePoint de Adobe expone el contenido a través de la interfaz JCR estándar, lo que permite a las aplicaciones acceder al contenido que reside en un repositorio propietario de forma estandarizada, lo que simplifica el acceso al contenido. '
+title: SharePoint Connector - setup and configuration
+description: Get a step-by-step guideline on how to setup and configure a Share connector with CQ/AEM (5.6.0), along with a demo of few examples. Adobe’s SharePoint Connector exposes content via the standard JCR interface, enabling applications to access content that resides in a proprietary repository in a standardized manner, thus, simplifying access to content. 
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
 exl-id: db54f5e6-41ab-4319-80d1-710f712be3a2
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
-
 ---
+# SharePoint Connector - Setup and Configuration{#sharepoint-connector-setup-and-configuration}
 
-# Conector de SharePoint: configuración{#sharepoint-connector-setup-and-configuration}
+Adobe’s SharePoint Connector exposes content via the standard JCR interface, enabling applications to access content that resides in a proprietary repository in a standardized manner, thus, simplifying access to content. In this session we will provide step-by-step guideline on how to setup and configure a Share Connector with CQ/AEM (5.6.0), along with a demo of few examples on:
 
-El conector SharePoint de Adobe expone el contenido a través de la interfaz JCR estándar, lo que permite a las aplicaciones acceder al contenido que reside en un repositorio propietario de forma estandarizada, lo que simplifica el acceso al contenido. En esta sesión proporcionaremos directrices paso a paso sobre cómo configurar un conector compartido con CQ/AEM (5.6.0), junto con una demostración de algunos ejemplos sobre:
-
-* Leer contenido y metadatos desde SharePoint
-* Escritura de archivos y carpetas en las bibliotecas de documentos de SharePoint
-* Ejecución de consultas en el sistema SharePoint
-* Uso de los anuncios de SharePoint
+* Reading content and metadata from SharePoint 
+* Writing files and folders to the SharePoint document libraries 
+* Executing queries on the SharePoint system 
+* Working with SharePoint Announcements
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*Entrega: 29 de enero de 2014*
+*Delivered January 29, 2014*
 
-**Presentado por:**
+**Presented by:**
 
-Tarun Aggarwal, ingeniero jefe de software, Adobe
+Tarun Aggarwal, Lead Software Engineer, Adobe
 
-**Diapositivas del presentador**
+**Presenter slides**
 
-[Obtener archivo](assets/cq-gems-sharepoint-connector.pdf)
+[Get File](assets/cq-gems-sharepoint-connector.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

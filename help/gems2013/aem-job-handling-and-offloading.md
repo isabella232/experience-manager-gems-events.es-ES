@@ -1,41 +1,35 @@
 ---
-title: Introducción a la gestión y descarga de trabajos en AEM 5.6.1.
-description: Obtenga una introducción técnica de las funciones avanzadas de gestión de trabajos. La gestión de trabajos es la infraestructura subyacente para funcionalidades como la replicación y el procesamiento de flujos de trabajo. Obtenga información sobre el módulo de detección junto con la API de procesamiento de trabajos mejorada y las nuevas funciones.
+title: Introduction to job handling and offloading in AEM 5.6.1.
+description: Get a technical introduction of the advanced job handling features. Job handling is the underlying infrastructure for features like replication and workflow processing. Learn about the discovery module alongside with the improved job processing API and new features.
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: 9fa2f9a8-86de-4791-ac40-6406e0336e08
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 1%
-
 ---
+# Introduction of Job Handling and Offloading in AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
 
-# Introducción a la gestión y descarga de trabajos en AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
-
-La gestión de trabajos es la infraestructura subyacente para funcionalidades como la replicación y el procesamiento de flujos de trabajo. Esta es una introducción técnica de las funciones avanzadas de gestión de trabajos. Analizamos el nuevo módulo de descubrimiento junto con la API de procesamiento de trabajos mejorada y las nuevas funciones. Basándose en la gestión y el descubrimiento de los trabajos, el marco de descarga se centra en la distribución de trabajos entre instancias no agrupadas. Echaremos un vistazo a cómo la descarga amplía la administración de trabajos distribuidos. A continuación, vemos cómo se utiliza para la implementación actual de la descarga de flujo de trabajo y cómo se puede utilizar en su propio proyecto.
+Job handling is the underlying infrastructure for features like replication and workflow processing. This is a technical introduction of the advanced job handling features. We discuss the new discovery module alongside with the improved job processing API and the new features. Building on top of the job handling and discovery, the offloading framework focuses on distributing jobs among non-clustered instances. We'll take a closer look into how offloading extends the distributed job handling. Then we look at how it's used for the current implementation of workflow offloading and how one can use it in its own project. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*Enviado el 24 de julio de 2013*
+*Delivered July 24, 2013*
 
-**Presentado por:**
+**Presented by:**
 
-Carsten Ziegeler, desarrollador sénior, Adobe
+Carsten Ziegeler, Senior Developer, Adobe
 
-Marc Pfaff, Desarrollador Principal, Adobe
+Marc Pfaff, Lead Developer, Adobe
 
-Diapositivas del presentador: parte 1
+Presenter slides - Part 1
 
-[Obtener archivo](assets/jobhandling.pdf)
+[Get File](assets/jobhandling.pdf)
 
-Diapositivas del presentador: parte 2
+Presenter slides - Part 2
 
-[Obtener archivo](assets/offloading.pdf)
+[Get File](assets/offloading.pdf)
 
-## Vínculos relacionados {#related-links}
+## Related links {#related-links}
 
-* [Eventos y gestión de trabajos de Apache Sling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [API de Discovery y sus implementaciones](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Descarga de trabajos](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Apache Sling Eventing and Jobhandling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Discovery API and its implementations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Offloading Jobs](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

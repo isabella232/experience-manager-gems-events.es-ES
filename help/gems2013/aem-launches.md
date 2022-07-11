@@ -1,36 +1,30 @@
 ---
-title: 'AEM lanzamientos: preparación simultánea de varias versiones de un sitio web (AEM 5.6)'
-description: Aprenda a utilizar AEM lanzamientos para trabajar simultáneamente en varias versiones de un mismo sitio y a sincronizar los cambios entre ellos. Descubra cómo AEM Lanzamientos se ha integrado en AEM y conozca sus mecanismos básicos.
+title: AEM Launches - concurrent preparation of multiple versions of a website (AEM 5.6)
+description: Learn how to use AEM Launches to work concurrently on multiple versions of a same site, and sync changes between them. Discover how AEM Launches has been integrated in AEM, and learn about its basic mechanisms.
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
 exl-id: c3b2270b-843c-4998-a909-7b4953e495e3
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 2%
-
 ---
+# AEM Launches: concurrent preparation of multiple versions of a website (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
 
-# AEM lanzamientos: preparación simultánea de varias versiones de un sitio web (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
-
-Adobe Experience Manager proporciona funciones para crear y publicar fácilmente contenido digital en sitios web y sitios móviles. Sin embargo, es posible que los creadores de contenido deseen trabajar simultáneamente en varias versiones de un mismo sitio y sincronizar los cambios entre ellos. Esto se puede lograr utilizando los lanzamientos AEM. Durante esta sesión, descubrirá cómo se ha integrado la función en AEM y comprenderá sus mecanismos básicos.
+Adobe Experience Manager provides features to easily create and publish digital content over websites and mobile sites. But content creators may want to work concurrently on multiple versions of a same site and sync changes between them. This is achievable by using the AEM Launches. During this session, you will discover how the feature has been integrated in AEM and understand its basic mechanisms.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*Entrega: 12 de junio de 2013*
+*Delivered June 12, 2013*
 
-**Presentado por:**
+**Presented by:**
 
-Gilles Knobloch, Desarrollador Principal, Adobe
+Gilles Knobloch, Lead Developer, Adobe
 
-**Diapositivas del presentador**
+**Presenter slides**
 
-[Obtener archivo](assets/2013-06-12-launches-cqgems.pdf)
+[Get File](assets/2013-06-12-launches-cqgems.pdf)
 
-## Vínculos relacionados {#related-links}
+## Related links {#related-links}
 
-[Documentación](http://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
+[Documentation](http://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

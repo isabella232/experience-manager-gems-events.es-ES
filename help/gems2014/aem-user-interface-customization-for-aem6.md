@@ -1,37 +1,31 @@
 ---
-title: Personalización de la interfaz de usuario para AEM 6
-description: Obtenga información sobre cómo ampliar la interfaz de usuario de AEM 6.0. Con la nueva combinación de recursos es posible modificar cada consola de administración a través de una superposición para cambiar, eliminar o agregar cualquier nodo o propiedad.
+title: User interface customization for AEM 6
+description: Learn how to extend the AEM 6.0 user interface. With the new resource merger it is possible to modify every admin console through an overlay to change, delete or add any node or property.
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
 exl-id: 399b1360-c0d5-4375-b764-96f947bd6945
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
-
 ---
+# User interface customization for AEM 6{#user-interface-customization-for-aem}
 
-# Personalización de la interfaz de usuario para AEM 6{#user-interface-customization-for-aem}
-
-La sesión le explica cómo ampliar la interfaz de usuario de AEM 6.0. Con la nueva combinación de recursos es posible modificar cada consola de administración a través de una superposición para cambiar, eliminar o agregar cualquier nodo o propiedad. En combinación con el nuevo vocabulario de fundación del lado del cliente, abre nuevas formas de personalización del producto. Además, AEM proporciona una amplia gama de puntos de extensión en la nueva creación de páginas, para conectar implementaciones personalizadas en la arquitectura en capas.
+The session walks you through ways how to extend AEM 6.0’s user interface. With the new resource merger it is possible to modify every admin console through an overlay to change, delete or add any node or property. In combination with the new client side foundation vocabulary It opens up new ways of customization of the product. Furthermore AEM provides a broad range of extension points in the new page authoring, to hook in custom implementations in the layered architecture.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*Entrega: 7 de mayo de 2014*
+*Delivered May 7, 2014*
 
-**Presentado por:**
+**Presented by:**
 
-* Gilles Knobloch, Director de Ingeniería, Adobe
-* Damien Antipa, ingeniero sénior de experiencia de usuario, Adobe
+* Gilles Knobloch, Engineering Manager, Adobe  
+* Damien Antipa, Senior UX Engineer, Adobe
 
-**Diapositivas del presentador**
+**Presenter slides**
 
-[Obtener archivo](assets/user-interface-customization-for-aem6.pdf)
+[Get File](assets/user-interface-customization-for-aem6.pdf)
 
-## Vínculos relacionados {#related-links}
+## Related links {#related-links}
 
-* [Conceptos de IU táctil](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [Estructura](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [Personalización de las consolas (IU táctil)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Personalización de la creación de páginas (IU táctil)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Touch UI Concepts](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Structure](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [Customizing the Consoles (Touch-optimized UI)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [Customizing Page Authoring (Touch-optimized UI)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

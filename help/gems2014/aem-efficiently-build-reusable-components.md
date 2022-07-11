@@ -1,40 +1,34 @@
 ---
-title: Generación eficiente de componentes reutilizables
-description: Aprenda por qué es fundamental para la eficacia de su equipo permitir que los desarrolladores web HTML se integren completamente en el proyecto AEM, y cómo esto se puede hacer posible. Obtenga información también sobre los nuevos componentes de base, que se crean con JavaScript del lado del servidor y con HTL, y cómo reutilizarlos y ampliarlos.
+title: Efficiently build reusable components
+description: Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them.
 uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: ae46243b-4c58-4b7a-92a0-fb2900e02a8f
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 2%
-
 ---
+# Efficiently build reusable components{#efficiently-build-reusable-components}
 
-# Generación eficiente de componentes reutilizables{#efficiently-build-reusable-components}
-
-Con los plugins Brackets y Eclipse IDE, el lenguaje de plantilla HTL y los nuevos componentes de base, Adobe Experience Manager 6.0 aporta un nuevo giro al flujo de trabajo de desarrollo de componentes. Aprenda por qué es fundamental para la eficacia de su equipo permitir que los desarrolladores web HTML se integren completamente en el proyecto AEM, y cómo esto se puede hacer posible. Obtenga información también sobre los nuevos componentes de base, que se crean con JavaScript del lado del servidor y con HTL, y cómo reutilizarlos y ampliarlos. Esta es una sesión de seguimiento de &quot;Introducción a HTL&quot;, aunque recomendamos que asistan a ambas sesiones, no hay necesidad de asistir a ambas.
+With the Brackets and Eclipse IDE plugins, the HTL template language, and the new foundation components, Adobe Experience Manager 6.0 brings a new spin to your component development workflow. Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them. This is a follow up session of "Introduction to HTL", while we recommend attending both sessions there is no requirement to attend both.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19503/?quality=9)
 
-*Enviado el 2 de julio de 2014*
+*Delivered July 2, 2014*
 
-**Presentado por:**
+**Presented by:**
 
-Gabriel Walt, responsable de producto, Adobe
+Gabriel Walt, Product Manager, Adobe
 
-**Diapositivas del presentador**
+**Presenter slides**
 
-[Obtener archivo](assets/efficiently-build-reusable-components.pdf)
+[Get File](assets/efficiently-build-reusable-components.pdf)
 
-**Preguntas y respuestas sobre la sesión**
+**Session Questions and Answers**
 
-[Obtener archivo](assets/efficiently-build-reusable-components-q-a.pdf)
+[Get File](assets/efficiently-build-reusable-components-q-a.pdf)
 
-## Vínculos relacionados {#related-links}
+## Related links {#related-links}
 
-[Extensión de AEM Brackets HTL](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
+[AEM HTL Brackets Extension](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,35 +1,29 @@
 ---
-title: Presentación de AEM Modernización Suite
-description: Obtenga información sobre cómo convertir páginas de plantillas estáticas en plantillas editables. Obtenga información sobre cómo convertir componentes personalizados o heredados a proxies de componentes principales y más.
+title: Introducing the AEM Modernization Suite
+description: Learn how to convert static template pages to editable templates. Learn how to convert custom or legacy components to Core Component Proxies, and more.
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 1%
-
 ---
 
+# Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 
-# Presentación de AEM Modernización Suite{#introducing-the-aem-modernization-suite}
+Some Customers still rely on the Classic UI for their AEM Sites authoring experience. With the deprecation of this interface, a Summit lab was proposed to help our customers update their implementations to the newest capabilities. To support the Lab and provide our customers with the necessary means, Bryan Stopp and Gilles Knobloch created the AEM Modernization Tool Suite.  Come learn about this new tool’s capabilities to: 
 
-Algunos clientes aún dependen de la IU clásica para su experiencia de creación en AEM Sites. Con la desaprobación de esta interfaz, se propuso un laboratorio de Summit para ayudar a nuestros clientes a actualizar sus implementaciones a las capacidades más recientes. Para dar soporte al Laboratorio y proporcionar a nuestros clientes los medios necesarios, Bryan Stopp y Gilles Knobloch crearon el AEM Conjunto de Herramientas de Modernización.  Obtenga información sobre las funciones de esta nueva herramienta para:
-
-* Convertir páginas de plantillas estáticas en plantillas editables
-* Conversión de componentes personalizados/heredados a proxy de componentes principales (u otros componentes personalizados)
-* Importar y convertir diseños de componente como políticas de plantilla editables
-* Y (por supuesto) actualizar los cuadros de diálogo Classic/Coral2 a los cuadros de diálogo de Coral 3
+* Convert Static Template Pages to Editable Templates
+* Convert Custom/Legacy components to Core Component Proxies (or other custom Components)
+* Import and Convert Component Designs as Editable Template Policies
+* And (of course) Update Classic/Coral2 Dialogs to Coral 3 Dialogs  
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Entrega 08/05/19*
+*Delivered 05/08/19*
 
-**Presentado por:**
+**Presented by:**
 
-* Bryan Stopp, AEM Arquitecto Técnico, Adobe
-* Gilles Knobloch, Director de Ingeniería Senior, Adobe
+* Bryan Stopp, AEM Technical Architect, Adobe
+* Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Diapositivas del presentador**
+**Presenter slides**
 
-[Obtener archivo](assets/modernization-toolsaemgems.pdf)
+[Get File](assets/modernization-toolsaemgems.pdf)
