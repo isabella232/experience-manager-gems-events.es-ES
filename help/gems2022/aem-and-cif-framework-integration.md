@@ -1,13 +1,13 @@
 ---
 title: Integre el marco de AEM y CIF para crear una experiencia de comercio electrónico enriquecida e inmersiva
 description: Comprenda cómo se puede utilizar el marco del CIF de Adobe para crear una experiencia comercial coherente, rica en contenido e inmersiva.
-version: Experience Manager
+version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 3ae9186bba2e82b6084dbced62129e5e693722fb
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
