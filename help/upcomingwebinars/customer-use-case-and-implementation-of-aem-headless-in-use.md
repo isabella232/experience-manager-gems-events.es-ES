@@ -1,7 +1,7 @@
 ---
 title: Caso de uso del cliente e implementación de AEM sin encabezado en uso
 description: Anuncio de la sesión
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
