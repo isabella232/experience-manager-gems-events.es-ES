@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sesiones AEM de GEM
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---
@@ -20,6 +20,34 @@ ht-degree: 2%
 # Gems de Adobe Experience Manager
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
+
+## ¡Próximos eventos AEM GEM!
+
+<!---  Remove the comment marks, and put the upcoming event in the below table
+
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+En noviembre de 2022 se dispondrá de más información sobre AEM GEM.
+
+>[!NOTE]
+>
+> Regístrese para recibir notificaciones de las próximas sesiones de GEMS en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
 
 ## 2022 Reinicio de AEM GEM
 
@@ -32,10 +60,9 @@ Los seminarios web se llevarán a cabo periódicamente, incluidos los siguientes
 * Grabación disponible después de cada seminario web
 * El seminario web es gratuito
 
-## Próximos seminarios web y registro
-
 Todos nuestros AEM seminarios web de GEM son gratuitos y se llevan a cabo virtualmente.
-* Regístrese en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/) para recibir notificaciones sobre nuestros próximos seminarios web.
+
+Registrarse en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/) para recibir notificaciones sobre nuestros próximos seminarios web.
 
 ## Comunidad del Experience League
 
