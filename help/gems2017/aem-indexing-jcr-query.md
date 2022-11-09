@@ -2,10 +2,10 @@
 title: Consulta de indexación de AEM y JCR
 description: AEM prácticas recomendadas de indexación y consulta. Cómo solucionar problemas de consulta en AEM y cómo configurar y administrar índices.
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
-topic-tags: best_practices
+topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+source-git-commit: f563ff48e6721c5d7c3b609506c09049b08d88b4
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 9%
