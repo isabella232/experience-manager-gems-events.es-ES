@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sesiones AEM de GEM
-source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
+source-git-commit: b537a225b4bfe26172cf0e4798a79715718c6f83
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 1%
 
 ---
 
@@ -43,7 +43,9 @@ ht-degree: 2%
 </table>
 
 --->
-En noviembre de 2022 se dispondrá de más información sobre AEM GEM.
+Próximo seminario web AEM GEM: *Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS*.
+Temporización: 18 de enero, 5 pm CET / 8 am PST / 9.30 pm IST Recurso: [Analizador de prácticas recomendadas de AEM](/help/gems2022/aem-best-practices-analyzer.md)
+Registro: [Registro de seminario web](https://aem-augs.adobe.com/)
 
 >[!NOTE]
 >
