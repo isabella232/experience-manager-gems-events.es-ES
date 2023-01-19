@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS
 
-## Temporización: 18 de enero de 2023
-
-## Registro
-
-Para este seminario web, regístrese a través de [Adobe AEM grupo de usuarios](https://aem-augs.adobe.com/).
+## Este seminario web se publicó el 18 de enero de 2023. Consulte la grabación siguiente
 
 ## Descripción
 
@@ -34,3 +30,12 @@ Tenga en cuenta que el Analizador de prácticas recomendadas de AEM no es aplica
 * Kiran Murugula, arquitecto sénior de la nube, Adobe
 * Vaibhav Varshney, experto informático, Adobe
 * Himani Chauhan, Informático Científico, Adobe
+
+## Grabación de seminario web - 18/01/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* Para interacciones comunitarias específicas de sesión en el Experience League, visite esta [Subproceso contextual](https://bit.ly/3Z6AyM1)
+>* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
