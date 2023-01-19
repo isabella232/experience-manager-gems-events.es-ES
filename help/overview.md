@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sesiones AEM de GEM
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 1%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 1%
 </table>
 
 --->
-Próximo seminario web AEM GEM: *Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS*.
-Temporización: 18 de enero, 5 pm CET / 8 am PST / 9.30 pm IST Recurso: [Analizador de prácticas recomendadas de AEM](/help/gems2022/aem-best-practices-analyzer.md)
-Registro: [Registro de seminario web](https://aem-augs.adobe.com/e/mz8eae/)
+Seminario web más reciente de AEM GEM: *Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS*.
+Realizado: 18 de enero, 5 pm CET / 8 am PST / 9.30 pm IST Recurso: [Analizador de prácticas recomendadas de AEM](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> Regístrese para recibir notificaciones de las próximas sesiones de GEMS en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
+> Regístrese para recibir notificaciones en los próximos seminarios web AEM GEM en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
 
 ## 2022 Reinicio de AEM GEM
 
@@ -76,8 +75,8 @@ Nuestra [Comunidad del Experience Manager](https://experienceleaguecommunities.a
 
 ## Grabación del seminario web anterior
 
-Nuestro último seminario web era acerca de **Integre el marco de AEM y CIF para crear una experiencia de comercio electrónico enriquecida e inmersiva** y se llevó a cabo el 27 de abril.
+Nuestro último seminario web era acerca de **Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS** y se llevó a cabo el 18 de enero de 2023.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Este seminario web fue presentado por Kunal Gaba y Vinay Kumar, ambos arquitectos técnicos en el Adobe.
+Para obtener información detallada sobre la sesión, incluida una descripción y la información del presentador, visite [Analizador de prácticas recomendadas de AEM](/help/gems2023/aem-best-practices-analyzer.md).
