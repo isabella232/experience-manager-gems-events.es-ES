@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sesiones AEM de GEM
-source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 1%
 </table>
 
 --->
-Seminario web más reciente de AEM GEM: *Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS*.
-Realizado: 18 de enero, 5 pm CET / 8 am PST / 9.30 pm IST Recurso: [Analizador de prácticas recomendadas de AEM](/help/gems2023/aem-best-practices-analyzer.md)
+*Aceleración del desarrollo de Cloud Service de Adobe Experience Manager con entornos de desarrollo rápido*
+Fecha: 22 de Febrero, 5 pm CET / 8am PST / 9.30pm IST Recurso: [Seminario web sobre entornos de desarrollo rápido de AEM](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
