@@ -10,9 +10,9 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 66e2150987319e08f22ca002015da24b18f5e452
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,7 @@ ht-degree: 0%
 
 # Aceleración AEM desarrollo as a Cloud Service con entornos de desarrollo rápido
 
-## Este seminario web se impartirá el 22 de febrero de 2023. Regístrese en la página de eventos
-
-Regístrese mediante [página de evento](http://bit.ly/3DsMcYw) en Adobe AEM grupo de usuarios: capítulo de aprendizaje.
+Este seminario web se llevó a cabo el 22 de febrero de 2023. Consulte la grabación siguiente.
 
 ## Descripción de la sesión
 
@@ -34,6 +32,10 @@ Los RDE permiten a los desarrolladores implementar y revisar cambios rápidament
 * Natalia Angulo Herrera, ingeniera de desarrollo de software
 * Karl Pauls, experto informático
 * David Bosschaert, ingeniero de software sénior
+
+## Grabación de seminario web - 18/01/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
