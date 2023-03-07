@@ -1,6 +1,6 @@
 ---
-title: Aceleración AEM desarrollo as a Cloud Service con entornos de desarrollo rápido
-description: Para implementar cambios, los entornos actuales de Cloud Development requieren el uso de un proceso que emplee reglas de calidad y seguridad de código extensas, llamadas canalización CI/CD. En situaciones en las que se necesitan cambios rápidos e iterativos, el Adobe ha introducido entornos de desarrollo rápido (RDE). Los RDE permiten a los desarrolladores implementar y revisar cambios rápidamente, lo que minimiza la cantidad de tiempo necesario para probar las características que funcionan en un entorno de desarrollo local.
+title: AEM Acelerar el desarrollo as a Cloud Service de los recursos con entornos de desarrollo rápido
+description: Para implementar cambios, los entornos de desarrollo de nube actuales requieren el uso de un proceso que emplee amplias reglas de calidad y seguridad de código denominadas canalización CI/CD. Para situaciones en las que se necesitan cambios rápidos e iterativos, Adobe ha introducido Entornos de desarrollo rápido (RDE, por sus siglas en inglés). Los RDE permiten a los desarrolladores implementar y revisar cambios rápidamente, minimizando la cantidad de tiempo necesario para probar características que han demostrado funcionar en un entorno de desarrollo local.
 version: Cloud Service
 feature: Developer Tools
 topic: Development
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
+source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -18,26 +18,26 @@ ht-degree: 0%
 ---
 
 
-# Aceleración AEM desarrollo as a Cloud Service con entornos de desarrollo rápido
+# AEM Acelerar el desarrollo as a Cloud Service de los recursos con entornos de desarrollo rápido
 
-Este seminario web se llevó a cabo el 22 de febrero de 2023. Consulte la grabación siguiente.
+Este seminario web se realizó el 22 de febrero de 2023. Vea la grabación a continuación.
 
-## Descripción de la sesión
+## Descripción de sesión
 
-Para implementar cambios, los entornos actuales de Cloud Development requieren el uso de un proceso que emplee reglas de calidad y seguridad de código extensas, llamadas canalización CI/CD. En situaciones en las que se necesitan cambios rápidos e iterativos, el Adobe ha introducido entornos de desarrollo rápido (RDEs).
-Los RDE permiten a los desarrolladores implementar y revisar cambios rápidamente, lo que minimiza la cantidad de tiempo necesario para probar las funciones que se ha probado que funcionan en un entorno de desarrollo local.
+Para implementar cambios, los entornos de desarrollo de nube actuales requieren el uso de un proceso que emplee amplias reglas de calidad y seguridad de código denominadas canalización CI/CD. Para situaciones en las que se necesitan cambios rápidos e iterativos, Adobe ha introducido Entornos de Desarrollo Rápido (RDE, por sus siglas en inglés).
+Los RDE permiten a los desarrolladores implementar y revisar cambios rápidamente, minimizando la cantidad de tiempo necesario para probar características que han demostrado funcionar en un entorno de desarrollo local.
 
 ## Presentadores
 
 * Natalia Angulo Herrera, ingeniera de desarrollo de software
-* Karl Pauls, experto informático
+* Karl Pauls, científico informático sénior
 * David Bosschaert, ingeniero de software sénior
 
-## Grabación de seminario web - 18/01/2023
+## Grabación de seminario web - 22/02/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
->* Para interacciones comunitarias específicas de sesión en el Experience League, visite esta [Subproceso contextual](http://bit.ly/3x1Cl8x)
->* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
+>* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](http://bit.ly/3x1Cl8x)
+>* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
