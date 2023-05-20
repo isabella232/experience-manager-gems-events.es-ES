@@ -1,48 +1,49 @@
 ---
-title: Caso de uso del cliente e implementación de AEM sin encabezado en uso
-description: Anuncio de la sesión
+title: AEM Caso práctico de cliente e implementación de la aplicación sin encabezado en uso
+description: Anuncio de sesión
 version: 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
+exl-id: 05c19b41-69d5-4400-85be-38e5a55ef2c1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# Función AEM GEM: Caso de uso del cliente e implementación de AEM sin encabezado en uso
+# AEM AEM Funcionalidad de GEMs: Caso práctico de cliente e implementación de la tecnología sin encabezado en uso de la
 
-*Este seminario web se ha realizado en **Miércoles, 12 de octubre - 3pm UTC**. La grabación está disponible a continuación.*
+*Este seminario web se ha llevado a cabo el **Miércoles, 12 de octubre - 3 pm UTC**. La grabación está disponible a continuación.*
 
-Esta sesión excepcional AEM GEM incluye dos ponentes que funcionan AEM como clientes. La sesión se dividirá en dos mitades de la siguiente manera:
+AEM AEM Esta excepcional sesión de GEMs cuenta con dos ponentes que operan como clientes de la red de la red de la red de la. La sesión se dividirá en dos mitades de la siguiente manera:
 
-## Parte 1: AEM como CMS sin objetivos ¿Dónde/Cuándo/Por qué?
+## AEM Parte 1: ¿Cómo se llama un CMS sin encabezado? ¿Dónde/Cuándo/Por qué?
 
-Presentador: Vengadesh Shanmugavelu - Arquitecto Técnico de Qatar Airways
+Presentador: Vengadesh Shanmugavelu - Arquitecto técnico, Qatar Airways
 
 **Descripción de la sesión:**
-Existen muchas maneras de implementar CMS sin objetivos a través de AEM.
+AEM Existen muchas maneras en las que podemos implementar CMS sin encabezado a través de la vía de la.
 En esta sesión, trataremos lo siguiente:
 
-* Servicios de contenido a través de exportadores/servlets
-* Fragmento de contenido mediante la API de recursos (demostración)
-* Fragmento de contenido mediante graphql (demostración)
+* Servicios de contenido mediante exportador/servlets
+* Fragmento de contenido a través de la API de recursos (demostración)
+* Fragmento de contenido a través de graphql (demostración)
 * Algunos casos de uso en tiempo real relacionados con el uso de fragmentos de contenido y sus enfoques
-* Aprendizaje SPA Editor (enfoque de alguna solución sobre cuándo elegir) (demostración)
+* SPA Aprendizajes del editor de datos (algún enfoque de solución sobre cuándo elegir) (demostración)
 
-## Parte 2: Enviar contenido sin encabezado a través de la API de GraphQL y los fragmentos de contenido
+## Parte 2: Entregar contenido sin encabezado mediante la API de GraphQL y fragmentos de contenido
 
-Presentador: Debal Das - Analista sénior del sistema, IBM
+Presentador: Debal Das, analista de sistemas sénior de IBM
 
 **Descripción de la sesión:**
 En esta sesión, trataremos el consumo de GraphQL de fragmentos de contenido (además de las API de JSON ya existentes).
 
 Conceptualmente, GraphQL es similar a una consulta de base de datos SQL, con la excepción de que se utiliza una API para la consulta en lugar de una base de datos.
 
-Esto elimina el requisito de que la API proporcione muchos extremos que ofrecen varios volúmenes o grupos de datos para varios clientes y permite que varios clientes consulten la API para sus propias necesidades.
+Esto elimina el requisito de que la API proporcione muchos extremos que proporcionen varios volúmenes o grupos de datos para varios clientes y permite que varios clientes consulten la API para sus propias necesidades.
 
 **Grabación de sesión**
 
@@ -50,5 +51,6 @@ Esto elimina el requisito de que la API proporcione muchos extremos que ofrecen 
 
 >[!NOTE]
 >
->* Para interacciones comunitarias específicas de sesión en el Experience League, visite esta [Subproceso contextual](https://adobe.ly/3r6P4nr)
->* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
+>* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](https://adobe.ly/3r6P4nr)
+>* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+

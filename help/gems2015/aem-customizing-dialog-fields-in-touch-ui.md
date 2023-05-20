@@ -1,6 +1,6 @@
 ---
-title: Personalización de los campos de diálogo en la interfaz de usuario táctil
-description: Obtenga información sobre cómo implementar campos personalizados (o utilidades) para los cuadros de diálogo de IU táctil en AEM 6.1. Descubra cómo se pueden realizar ahora las tareas anteriores con ExtJS (IU clásica) mediante la interfaz de usuario de Granite y la interfaz de usuario de Coral.
+title: Personalizar campos de diálogo en la IU táctil
+description: AEM Aprenda a implementar campos (o widgets) personalizados para los cuadros de diálogo de la IU táctil en la versión 6.1 de. Descubra cómo se pueden hacer ahora las cosas que se hacían anteriormente con ExtJS (IU clásica) mediante la interfaz de usuario de Granite y la interfaz de usuario de Coral.
 uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
@@ -12,22 +12,22 @@ ht-degree: 1%
 
 ---
 
-# Personalización de los campos de diálogo en la interfaz de usuario táctil{#customizing-dialog-fields-in-touch-ui}
+# Personalizar campos de diálogo en la IU táctil{#customizing-dialog-fields-in-touch-ui}
 
-En esta sesión, explicaremos cómo implementar campos personalizados (o utilidades) para los cuadros de diálogo de la interfaz de usuario táctil en AEM 6.1. El objetivo es mostrarle cómo se podían hacer las cosas que se hicieron anteriormente con ExtJS (IU clásica) mediante la interfaz de usuario de Granite y la interfaz de usuario de Coral:
+AEM En esta sesión, explicaremos cómo implementar campos (o widgets) personalizados para los cuadros de diálogo de la IU táctil en la versión 6.1 de la. El objetivo es mostrarle cómo se podían hacer ahora las cosas que se hacían anteriormente con ExtJS (IU clásica) mediante la interfaz de usuario de Granite y la interfaz de usuario de Coral:
 
 * Creación de un nuevo campo
 * Ampliación de un campo existente
-* Gestión de la validación
+* Gestión de validación
 * Gestión de eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*Enviado el 7 de octubre de 2015*
+*Publicado el 7 de octubre de 2015*
 
 **Presentado por:**
 
-* Christanto Leonardo, desarrollador sénior, Adobe
+* Christanto Leonardo, Desarrollador sénior, Adobe
 * Christian Meyer, Desarrollador, Adobe
 
 **Diapositivas del presentador**

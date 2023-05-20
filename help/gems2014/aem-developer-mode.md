@@ -1,6 +1,6 @@
 ---
-title: Modo de desarrollador de AEM 6.0
-description: Obtenga información sobre el Modo de desarrollador en AEM 6.0.
+title: AEM Modo de desarrollador de.0
+description: AEM Obtenga información acerca del modo de desarrollador en la versión 6.0 de.
 uuid: ade5e9fd-a81a-4cec-a6ea-fff8cbaf4777
 discoiquuid: cbfc5299-e915-4ac5-8ce6-57a289b973ec
 targetaudience: target-audience advanced
@@ -12,27 +12,27 @@ ht-degree: 5%
 
 ---
 
-# Modo de desarrollador de AEM 6.0{#aem-developer-mode}
+# AEM Modo de desarrollador de.0{#aem-developer-mode}
 
-David le presenta al Modo de desarrollador en AEM 6.O. El modo de desarrollador es:
+AEM David le presenta el modo de desarrollador en la versión 6.0 de la versión de. El modo de desarrollador es:
 
-* Un puente entre los autores y el desarrollador (árbol de componentes)
+* Un puente entre autores y desarrollador (árbol de componentes)
 * Un asistente de depuración (notificador de errores)
-* Un complemento de prueba (herramienta de prueba de aplicaciones) (Implementación AEM Hobbes.js)
+* AEM Un complemento de prueba (herramienta de prueba de aplicaciones) (Implementación de Hobbes.js
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*Enviado el 16 de julio de 2014*
+*Publicado el 16 de julio de 2014*
 
 **Presentado por:**
 
-David Catalan, desarrollador de QE, Adobe
+David Catalan, Desarrollador de QE, Adobe
 
 **Diapositivas del presentador**
 
 [Obtener archivo](assets/aem-6-developer-mode-07-16-14.pdf)
 
-**Preguntas y respuestas sobre la sesión**
+**Preguntas y respuestas de la sesión**
 
 [Obtener archivo](assets/q-a-developer-mode-7-16-14.pdf)
 <!--

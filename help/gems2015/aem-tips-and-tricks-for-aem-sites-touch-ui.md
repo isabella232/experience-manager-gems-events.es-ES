@@ -1,6 +1,6 @@
 ---
 title: Sugerencias y trucos para la IU táctil de AEM Sites
-description: Conozca los consejos y trucos más interesantes sobre [!DNL AEM Sites] IU táctil. Descubra las características de la IU táctil que puede o no conocer y que le permitan realizar más tareas y hacerlo más rápido. Tanto si es un estratega de contenido como un especialista en marketing de contenido, descubrirá algunas de las gemas ocultas de la IU táctil que le harán más eficiente y productivo.
+description: Conozca los mejores consejos y trucos sobre [!DNL AEM Sites] IU táctil. Descubra las funciones de la interfaz de usuario táctil que puede conocer o no que le permiten lograr más y hacerlo más rápido. Tanto si es un estratega de contenido como si es un experto en marketing de contenido, descubrirá algunas de las joyas ocultas de la interfaz de usuario táctil que le harán más eficiente y productivo.
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 # Sugerencias y trucos para [!DNL AEM Sites] IU táctil{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Conozca los consejos y trucos más interesantes sobre [!DNL AEM Sites] IU táctil. Descubra las características de la IU táctil que puede o no conocer y que le permitan realizar más tareas y hacerlo más rápido. Tanto si es un estratega de contenido como un especialista en marketing de contenido, descubrirá algunas de las gemas ocultas de la IU táctil que le harán más eficiente y productivo.
+Conozca los mejores consejos y trucos sobre [!DNL AEM Sites] IU táctil. Descubra las funciones de la interfaz de usuario táctil que puede conocer o no que le permiten lograr más y hacerlo más rápido. Tanto si es un estratega de contenido como si es un experto en marketing de contenido, descubrirá algunas de las joyas ocultas de la interfaz de usuario táctil que le harán más eficiente y productivo.
 
-En este GEM, aprenda a:
+En esta GEM, aprenda cómo:
 
-* Navegar y encontrar contenido de forma eficiente
-* Organice el contenido y colabore en él
-* Mantener una visión general de lo que está sucediendo
-* Contenido de creación
+* Navegación y búsqueda de contenido de forma eficaz
+* Organizar contenido y colaborar en él
+* Mantenga una visión general de lo que está pasando
+* Contenido del autor
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*Enviado el 3 de junio de 2015*
+*Publicado el 3 de junio de 2015*
 
 **Presentado por:**
 
-* Gabriel Walt, responsable de producto, Adobe
-* Gilles Knobloch, Director de Ingeniería, Adobe
+* Gabriel Walt, Product Manager, Adobe
+* Gilles Knobloch, director de ingeniería, Adobe
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

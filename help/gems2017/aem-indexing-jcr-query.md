@@ -1,19 +1,19 @@
 ---
-title: Consulta de indexación de AEM y JCR
-description: AEM prácticas recomendadas de indexación y consulta. Cómo solucionar problemas de consulta en AEM y cómo configurar y administrar índices.
+title: AEM Indexación de y consulta JCR
+description: AEM Prácticas recomendadas de indexación y consulta de. AEM Solución de problemas de consultas en la y configuración y administración de índices.
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: f563ff48e6721c5d7c3b609506c09049b08d88b4
+exl-id: d1b3e632-da5a-4e8f-8acc-467c71ce251b
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 9%
 
 ---
 
-
-# Consulta de indexación de AEM y JCR{#aem-indexing-and-jcr-query}
+# AEM Indexación de y consulta JCR{#aem-indexing-and-jcr-query}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
@@ -27,14 +27,14 @@ ht-degree: 9%
 
 ## Vínculos relacionados {#related-links}
 
-Documentación AEM
+AEM Documentación de
 
 * [Consultas e indexación de Oak](https://docs.adobe.com/docs/en/aem/6-3/deploy/platform/queries-and-indexing.html)
 * [Prácticas recomendadas para consultas e indexación](https://docs.adobe.com/docs/en/aem/6-3/deploy/best-practices/best-practices-for-queries-and-indexing.html)
 
 Documentación de Oak
 
-* [Consultas e índices Oak](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=es)
+* [Consulta e índices de Oak](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=es)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -42,9 +42,9 @@ Documentación de Oak
 
 >[!MORELIKETHIS]
 >
->* [Consulta de indexación de AEM y JCR](aem-indexing-jcr-query.md)
->* [Solución de problemas AEM replicación](aem-troubleshooting-aem-replication.md)
->* [Solución de problemas de distribución de contenido Sling](aem-troubleshooting-sling.md)
+>* [AEM Indexación de y consulta JCR](aem-indexing-jcr-query.md)
+>* [AEM Resolución de problemas de replicación](aem-troubleshooting-aem-replication.md)
+>* [Solución de problemas de Sling Content Distribution](aem-troubleshooting-sling.md)
 
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)

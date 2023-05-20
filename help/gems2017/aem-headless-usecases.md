@@ -1,6 +1,6 @@
 ---
-title: AEM experiencias fluidas para casos de uso remoto
-description: Obtenga información sobre experiencias fluidas y su aplicación en la administración de contenido y experiencias para escenarios CMS headful o headless. Obtenga información sobre las últimas funciones clave AEM 6.3 que habilitan casos prácticos de administración de experiencias sin agnósticos de canal y más.
+title: AEM Experiencias fluidas de la para casos de uso sin encabezado
+description: Obtenga información acerca de las experiencias fluidas y su aplicación en la administración de contenido y experiencias para escenarios de CMS con encabezado o sin encabezado. AEM Obtenga información acerca de las funcionalidades clave de la versión 6.3 que habilitan casos de uso de administración de experiencias independientes del canal, entre otras.
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
@@ -12,24 +12,24 @@ ht-degree: 1%
 
 ---
 
-# AEM experiencias fluidas para casos de uso remoto{#aem-fluid-experiences-for-headless-usecases}
+# AEM Experiencias fluidas de la para casos de uso sin encabezado{#aem-fluid-experiences-for-headless-usecases}
 
-En esta sesión trataremos las experiencias fluidas de Adobe Experience Manager y su aplicación en la administración de contenido y experiencias para escenarios CMS headful o headless. Obtenga información sobre las últimas funciones clave AEM 6.3 que habilitan casos prácticos de administración de experiencias sin agnósticos de canal. Conozca cómo los clientes utilizan los fragmentos de experiencias y los servicios de contenido para reutilizar contenido web en aplicaciones móviles, aplicaciones de una sola página y aplicaciones personalizadas. Únase a nosotros para conocer los detalles de implementación, la demostración y las aplicaciones para la distribución de contenido. Obtenga información sobre cómo crear una vez y entregar a través de canales.
+En esta sesión cubriremos las experiencias fluidas de Adobe Experience Manager y su aplicación en la administración de contenido y experiencias para escenarios de CMS con encabezado o sin encabezado. AEM Obtenga información acerca de las funcionalidades clave de la versión 6.3 que habilitan casos de uso de administración de experiencias independientes del canal. Escuche cómo sus compañeros clientes utilizan los fragmentos de experiencias y los servicios de contenido para reutilizar contenido web en aplicaciones móviles, aplicaciones de una sola página y aplicaciones personalizadas. Únase a nosotros para conocer los detalles de implementación, la demostración y las aplicaciones para la distribución de contenido. Aprenda a crear una vez y a distribuir entre canales.
 
-Puntos clave a seguir:
+Consideraciones clave:
 
-* Comprender los nuevos recursos disponibles para usar en conversaciones omnicanal de CMS
-* Poder ofrecer el punto de vista y la solución de Adobe con Experiencias fluidas
-* Nueva demostración y procedimientos disponibles para las conversaciones con los clientes
+* Comprender los nuevos recursos disponibles para usarlos en conversaciones omnicanal de CMS
+* Poder ofrecer el punto de vista y la solución de Adobe con experiencias fluidas
+* Nueva demostración y tutoriales disponibles para las conversaciones con los clientes
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Enviado el 18 de octubre de 2017*
+*Publicado el 18 de octubre de 2017*
 
 **Presentado por:**
 
-* Haresh Kumar, Director de Estrategia y AEM de Marketing de Productos, Adobe
-* Gilles Knobloch, Director de Ingeniería Senior, Adobe
+* Haresh Kumar, Director AEM de Estrategia y Marketing de Productos,, Adobe
+* Gilles Knobloch, Director de ingeniería, Adobe
 
 **Diapositivas del presentador**
 

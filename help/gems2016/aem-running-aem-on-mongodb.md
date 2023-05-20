@@ -1,6 +1,6 @@
 ---
-title: Ejecución de AEM en MongoDB
-description: Esta Gem AEM detallará cómo ejecutar AEM en MongoDB en un entorno de producción. Presentaremos las opciones que MongoDB tiene para la implementación, resaltaremos la implementación recomendada y explicaremos la justificación de esas recomendaciones.
+title: AEM Ejecución en MongoDB
+description: AEM AEM Esta Gem de la detallará cómo ejecutar la configuración de la producción de MongoDB en un entorno de producción. Presentaremos las opciones que tiene MongoDB para la implementación, resaltaremos la implementación recomendada y explicaremos los motivos de esas recomendaciones.
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 1%
 
 ---
 
-# Ejecución de AEM en MongoDB{#running-aem-on-mongodb}
+# AEM Ejecución en MongoDB{#running-aem-on-mongodb}
 
-Esta Gem AEM detallará cómo ejecutar AEM en MongoDB en un entorno de producción. Presentaremos las opciones que MongoDB tiene para la implementación, resaltaremos la implementación recomendada y explicaremos la justificación de esas recomendaciones.
+AEM AEM Esta Gem de la detallará cómo ejecutar la configuración de la producción de MongoDB en un entorno de producción. Presentaremos las opciones que tiene MongoDB para la implementación, resaltaremos la implementación recomendada y explicaremos los motivos de esas recomendaciones.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*Enviado el 23 de marzo de 2016*
+*Publicado el 23 de marzo de 2016*
 
 **Presentado por:**
 

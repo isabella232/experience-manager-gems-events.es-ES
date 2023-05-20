@@ -1,6 +1,6 @@
 ---
-title: Herramientas para probar aplicaciones de Adobe Experience Manager
-description: Desde Prueba de Unidad hasta Prueba de Integración de una Aplicación Experience Manager Las pruebas automatizadas son indispensables para desarrollar cualquier aplicación. En esta presentación se describen las distintas herramientas para probar el código Java, empezando por los conceptos básicos de las pruebas de unidades, hasta las pruebas funcionales y de integración. Aprenda a añadir fácilmente pruebas de la forma más eficaz a su base de código, independientemente de si desea probar un simple método de utilidad, un servicio OSGi o un extremo HTTP.
+title: Herramientas para probar las aplicaciones de Adobe Experience Manager
+description: 'De la prueba unitaria a la prueba de integración de una aplicación Experience Manager La prueba automatizada es indispensable para desarrollar cualquier aplicación. En esta presentación se describen las distintas herramientas para probar el código Java: desde lo más básico, la prueba de unidades, hasta las pruebas funcionales y de integraciones. Aprenda a añadir fácilmente pruebas de la forma más eficaz a la base de código, independientemente de si desea probar un método de utilidad simple, algún servicio OSGi o un extremo HTTP.'
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 1%
 
 ---
 
-# Herramientas para probar aplicaciones de Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
+# Herramientas para probar las aplicaciones de Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
 
-Desde Prueba de Unidad hasta Prueba de Integración de una Aplicación Experience Manager Las pruebas automatizadas son indispensables para desarrollar cualquier aplicación. En esta presentación se describen las distintas herramientas para probar el código Java, empezando por los conceptos básicos de las pruebas de unidades, hasta las pruebas funcionales y de integración. Aprenda a añadir fácilmente pruebas de la forma más eficaz a su base de código, independientemente de si desea probar un simple método de utilidad, un servicio OSGi o un extremo HTTP.
+De la prueba unitaria a la prueba de integración de una aplicación Experience Manager La prueba automatizada es indispensable para desarrollar cualquier aplicación. En esta presentación se describen las distintas herramientas para probar el código Java: desde lo más básico, la prueba de unidades, hasta las pruebas funcionales y de integraciones. Aprenda a añadir fácilmente pruebas de la forma más eficaz a la base de código, independientemente de si desea probar un método de utilidad simple, algún servicio OSGi o un extremo HTTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 

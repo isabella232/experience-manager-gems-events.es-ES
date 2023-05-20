@@ -1,6 +1,6 @@
 ---
-title: Seguimiento de métricas de calidad de su proyecto Javascript
-description: Metodología para integrar el análisis de sonarqube en los proyectos de Javascript y así obtener acceso a ・ Análisis básico del código estático ・ Cobertura de pruebas de unidad ・ Cobertura de pruebas de integración (AEM)
+title: Seguimiento de métricas de calidad de su proyecto de Javascript
+description: AEM Metodología para integrar el análisis de sonarqube en proyectos Javascript y así obtener acceso a · Análisis básico de código estático · Cobertura de pruebas unitarias · Cobertura de pruebas de integración ()
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
@@ -8,25 +8,25 @@ exl-id: 7b3b0418-c6a5-42f8-9274-ad275235fd88
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Seguimiento de métricas de calidad de su proyecto Javascript{#track-quality-metrics-of-your-javascript-project}
+# Seguimiento de métricas de calidad de su proyecto de Javascript{#track-quality-metrics-of-your-javascript-project}
 
 Metodología para integrar el análisis de sonarqube en proyectos Javascript y así obtener acceso a:
 
-* Análisis básico del código estático
-* Cobertura de las pruebas de unidad
-* Cobertura de las pruebas de integración (AEM)
+* Análisis básico de código estático
+* Cobertura de pruebas unitarias
+* AEM Cobertura de las pruebas de integración ()
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
-*Entrega 9 de diciembre de 2015*
+*Entregado el 9 de diciembre de 2015*
 
 **Presentado por:**
 
-* David Catalan, principal desarrollador de QE, Adobe
+* David Catalan, desarrollador principal de QE, Adobe
 
 **Diapositivas del presentador**
 

@@ -1,6 +1,6 @@
 ---
-title: 'Dispatcher: Nuevas funciones y prácticas recomendadas'
-description: En esta sesión se explorarán las nuevas funciones de Dispatcher (desde la versión 4.1.9) y se observarán algunas prácticas recomendadas al implementar Dispatcher.
+title: 'Dispatcher: nuevas funciones y prácticas recomendadas'
+description: En esta sesión se explorarán las nuevas funciones de Dispatcher (desde la versión 4.1.9) y se examinarán algunas prácticas recomendadas al implementarlo.
 uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 3%
 
 ---
 
-# Dispatcher: Nuevas funciones y prácticas recomendadas{#dispatcher-new-features-and-best-practices}
+# Dispatcher: nuevas funciones y prácticas recomendadas{#dispatcher-new-features-and-best-practices}
 
-En esta sesión se exploran las nuevas funciones de Dispatcher (desde la versión 4.1.9) y se observan algunas prácticas recomendadas al implementar Dispatcher.
+Esta sesión explora las nuevas funciones de Dispatcher (desde la versión 4.1.9) y observa algunas prácticas recomendadas al implementarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*Enviado el 22 de noviembre de 2017*
+*Publicado el 22 de noviembre de 2017*
 
 **Presentado por:**
 
@@ -28,11 +28,11 @@ Dominique Pfister, experto informático sénior, Adobe
 
 [Obtener archivo](assets/dispatcher-aemgemsnov2017.pdf)
 
-## Medios {#resources}
+## Recursos {#resources}
 
 [Más información sobre la caché de Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Abuso de JSONP con Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Abusar de JSONP con el Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
 [Más información](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 

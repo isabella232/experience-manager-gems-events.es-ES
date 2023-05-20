@@ -1,24 +1,24 @@
 ---
-title: 'Integraciones AEM: una base sólida avanza'
-description: Si bien AEM trabajo es bastante independiente, nosotros, los consultores de AT/AAM/AA que trabajamos con AEM necesitamos colaborar con nuestros homólogos AEM. Esta sesión ofrece una breve descripción general de las integraciones de AT/AAM/AA que utilizan DTM, las cosas que buscamos y por qué todo importa.
+title: 'AEM Integraciones: una base sólida recorre un largo camino'
+description: AEM AAM AEM AEM Aunque el trabajo es bastante independiente, nosotros los consultores de AT//AA que trabajamos con los que tenemos que colaborar con nuestros homólogos de la red de trabajo de la comunidad de la que nos dedicamos a la. AAM En esta sesión se ofrece una breve descripción general de las integraciones de AT//AA que utilizan DTM, lo que buscamos y por qué importa.
 uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: dd040cb5-db4b-4791-864c-0f2f52fe2f70
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
 
 ---
 
+# AEM Integraciones: una base sólida recorre un largo camino{#aem-integrations-a-solid-foundation-goes-a-long-way}
 
-# Integraciones AEM: una base sólida avanza{#aem-integrations-a-solid-foundation-goes-a-long-way}
-
-Si bien AEM trabajo es bastante independiente, nosotros, los consultores de AT/AAM/AA que trabajamos con AEM necesitamos colaborar con nuestros homólogos AEM. Esta sesión ofrece una breve descripción general de las integraciones de AT/AAM/AA que utilizan DTM, las cosas que buscamos y por qué todo importa. Si alguna vez quisieran saber por qué la gente realmente usa AT/AAM/AA, o incluso AEM, esta es su sesión.   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM = Dynamic Tag Management
+AEM AAM AEM AEM Aunque el trabajo es bastante independiente, nosotros los consultores de AT//AA que trabajamos con los que tenemos que colaborar con nuestros homólogos de la red de trabajo de la comunidad de la que nos dedicamos a la. AAM En esta sesión se ofrece una breve descripción general de las integraciones de AT//AA que utilizan DTM, lo que buscamos y por qué importa. AAM AEM Si alguna vez ha querido saber por qué la gente usa realmente AT//AA, o incluso la, esta es su sesión.   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM = Dynamic Tag Management
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*Enviado el 27 de septiembre de 2017*
+*Publicado el 27 de septiembre de 2017*
 
 **Presentado por:**
 

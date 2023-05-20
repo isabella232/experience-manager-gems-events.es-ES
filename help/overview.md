@@ -1,6 +1,6 @@
 ---
-title: Sesiones AEM de GEM
-description: Esta es la página de aterrizaje para AEM GEM, que incluye información sobre la serie de seminarios web y la información de registro, seminarios web anteriores y futuros
+title: AEM Sesiones de GEM de
+description: AEM Esta es la página de aterrizaje para GEMs de la, que incluye información sobre la serie de seminarios web e información de registro, seminarios web anteriores y futuros
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,7 +9,7 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: Sesiones AEM de GEM
+user-guide-description: AEM Sesiones de GEM de
 source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## ¡Evento anterior AEM GEM!
+## AEM Evento anterior de GEMS de la
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,34 +43,34 @@ ht-degree: 2%
 </table>
 
 --->
-Nuestro último seminario web AEM GEM en **Aceleración del desarrollo de Cloud Service de Adobe Experience Manager con entornos de desarrollo rápido** se ha realizado en *22 de febrero de 2023*.
-La variable **grabación** se puede encontrar aquí: [Seminario web sobre entornos de desarrollo rápido de AEM](/help/gems2023/Rapid-Development-Environments.md)
+AEM Nuestro último seminario web de GEM de la sobre **Aceleración del desarrollo de Cloud Service de Adobe Experience Manager con entornos de desarrollo rápido** se ha realizado el *22 de febrero de 2023*.
+El **grabación** se puede encontrar aquí: [AEM Seminario web de entornos de desarrollo rápido](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
-> Regístrese para recibir notificaciones en los próximos seminarios web AEM GEM en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/).
+> AEM Regístrese para recibir notificaciones sobre futuros seminarios web de GEM en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
 
-## 2022 Reinicio de AEM GEM
+## AEM Reinicio en 2022 de los GEM de la
 
-Bienvenido a **GEM AEM** - nuestra serie de seminarios web de análisis técnico de Adobe Experience Manager, impartidos por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
+Bienvenido a **AEM GEMs de** - nuestra serie de seminarios web sobre conocimientos técnicos en Adobe Experience Manager, impartidos por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
 
 Los seminarios web se llevarán a cabo periódicamente, incluidos los siguientes:
 
 * Una duración máxima de 60 minutos
-* Preguntas y respuestas al final y expertos de chat disponibles en todo el seminario web
+* Preguntas y respuestas al final y chat con expertos disponibles durante todo el seminario web
 * Grabación disponible después de cada seminario web
 * El seminario web es gratuito
 
-Todos nuestros AEM seminarios web de GEM son gratuitos y se llevan a cabo virtualmente.
+AEM Todos nuestros seminarios web de GEMs en la red son gratuitos y se llevan a cabo virtualmente.
 
-Registrarse en [Grupo de usuarios AEM Adobe](https://aem-augs.adobe.com/) para recibir notificaciones sobre nuestros próximos seminarios web.
+Regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/) para recibir notificaciones sobre nuestros próximos seminarios web.
 
-## Comunidad del Experience League
+## Comunidad de Experience League
 
-Nuestra [Comunidad del Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) desempeñe un papel fundamental en la compatibilidad con la adopción de productos y el éxito de los clientes.
+Nuestro [Comunidad de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) desempeñar un papel fundamental en la adopción de productos y en el éxito de los clientes.
 
-* Conexión: Red con compañeros y personal de Adobe para obtener orientación y prácticas recomendadas desde la implementación hasta la ampliación del uso del producto
-* Respuestas rápidas: Amplia reserva de respuestas de casos de uso en el mundo real para permitir un uso activo exitoso de las soluciones de Adobe
-* Ideación y comentarios: Incorporar ideas de productos para clientes y proporcionar información valiosa sobre VoC a los equipos de productos
+* Conexión: Póngase en contacto con compañeros y con el personal de Adobe para obtener orientación y prácticas recomendadas, desde la implementación hasta la expansión del uso del producto
+* Respuestas rápidas: amplio conjunto de respuestas de casos de uso reales para admitir el uso activo y exitoso de las soluciones de Adobe
+* Ideación y comentarios: Adquiera ideas de productos de clientes y proporcione comentarios de VoC valiosos a los equipos de productos
 
 

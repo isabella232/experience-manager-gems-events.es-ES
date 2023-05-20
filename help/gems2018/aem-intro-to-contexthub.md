@@ -1,30 +1,30 @@
 ---
-title: Introducción a ContextHub en AEM 6.4
-description: La presentación cubre la arquitectura de alto nivel de ContextHub con algunas inmersiones más profundas en las tiendas genéricas disponibles, capas de persistencia, eventos y depuración. Obtenga información sobre las similitudes y la paridad de características entre ClientContext y ContextHub para facilitar la migración a ContextHub.
+title: AEM Introducción a ContextHub en 6.4
+description: La presentación abarca la arquitectura de ContextHub de alto nivel con algunas profundizaciones en las tiendas genéricas disponibles, las capas de persistencia, los eventos y la depuración. Obtenga información sobre las similitudes y la paridad de características entre ClientContext y ContextHub para facilitar la migración a ContextHub.
 uuid: f8789846-ff15-4cd5-9102-3b7394da5958
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: 3c7c5274-64d6-48c0-90fb-1c618dd09e13
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
+# AEM Introducción a ContextHub en 6.4{#introduction-to-contexthub-in-aem}
 
-# Introducción a ContextHub en AEM 6.4{#introduction-to-contexthub-in-aem}
-
-La presentación cubre la arquitectura de alto nivel de ContextHub con algunas inmersiones más profundas en las tiendas genéricas disponibles, capas de persistencia, eventos y depuración. Obtenga información sobre las similitudes y la paridad de características entre ClientContext y ContextHub para facilitar la migración a ContextHub.
+La presentación abarca la arquitectura de ContextHub de alto nivel con algunas profundizaciones en las tiendas genéricas disponibles, las capas de persistencia, los eventos y la depuración. Obtenga información sobre las similitudes y la paridad de características entre ClientContext y ContextHub para facilitar la migración a ContextHub.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*Entrega: 19/09/2018*
+*Entregado el 19/09/2018*
 
 **Presentado por:**
 
-Artur Kudlacz, desarrollador, Adobe
+Artur Kudlacz, Desarrollador, Adobe
 
-Fecha: 19/9/2018
+Fecha: 19/09/2018
 
 [Obtener archivo](assets/gems-session-introduction-to-contexthub-in-aem-64.pdf)
 

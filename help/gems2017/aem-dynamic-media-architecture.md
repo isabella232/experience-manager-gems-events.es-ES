@@ -1,6 +1,6 @@
 ---
-title: Arquitectura AEM Dynamic Media 6.3
-description: Únase a Cynthia Tillo, directora de producto de Adobe Digital Marketing para obtener información sobre la versión 6.3 de Dynamic Media.
+title: AEM Arquitectura de Dynamic Media 6.3
+description: Únase a Cynthia Tillo, directora de producto de Adobe Digital Marketing, para conocer la versión 6.3 de Dynamic Media.
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
@@ -12,25 +12,25 @@ ht-degree: 2%
 
 ---
 
-# Arquitectura AEM Dynamic Media 6.3{#aem-dynamic-media-architecture}
+# AEM Arquitectura de Dynamic Media 6.3{#aem-dynamic-media-architecture}
 
-Únase a Cynthia Tillo, directora de producto principal de Adobe Digital Marketing para obtener información sobre la versión 6.3 de Dynamic Media, que incluye:
+Únase a Cynthia Tillo, directora de producto de Adobe Digital Marketing, para conocer la versión 6.3 de Dynamic Media, que incluye lo siguiente:
 
-* Descripción general de Dynamic Media, incluidas las nuevas funciones
+* Información general sobre Dynamic Media, incluidas las nuevas funciones
 * Arquitectura de Dynamic Media
-* Consejos y sugerencias para la resolución de problemas
+* Sugerencias y trucos para solucionar problemas
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*Entrega: 30 de agosto de 2017*
+*Fecha de entrega: 30 de agosto de 2017*
 
 **Presentado por:**
 
-* Cynthia Tillo, Directora de Producto Principal, Adobe
+* Cynthia Tillo, directora de producto, Adobe
 * Herbert Wolfram, Director de Ingeniería, Adobe
-* Bob van Manen, Director de Ingeniería, Adobe
-* Peter Ciszak, experto informático, Adobe
-* Kirk Jones, experto informático, Adobe
+* Bob van Manen, director de ingeniería, Adobe
+* Peter Ciszak, informático, Adobe
+* Kirk Jones, informático, Adobe
 
 **Diapositivas del presentador**
 

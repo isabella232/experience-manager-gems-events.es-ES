@@ -1,6 +1,6 @@
 ---
-title: Análisis profundo de AEM 5.6 Media Publisher
-description: Obtenga una visión general del marco comercial de CQ 5.6 desde una perspectiva arquitectónica. Conozca los detalles de la implementación de referencia, según el repositorio JCR.
+title: AEM Inmersión profunda de Media Publisher 5.6
+description: Obtenga información general sobre el marco comercial CQ 5.6 desde una perspectiva arquitectónica. Conozca los detalles de la implementación de referencia, en función del repositorio JCR.
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 2%
 
 ---
 
-# Análisis profundo de AEM 5.6 Media Publisher {#aem-media-publisher-deep-dive}
+# AEM Inmersión profunda de Media Publisher 5.6 {#aem-media-publisher-deep-dive}
 
-Como parte de Adobe Experience Manager, CQ 5.6 proporciona un nuevo marco de comercio para crear sitios web de comercio impulsado por la experiencia sobre una plataforma de comercio de terceros. Esta sesión ofrece una visión general del marco desde una perspectiva arquitectónica y presenta algunos detalles de la implementación de referencia, basados en el repositorio JCR.
+Como parte de Adobe Experience Manager, CQ 5.6 proporciona un nuevo marco comercial para crear sitios web de comercio impulsados por la experiencia además de una plataforma de comercio de terceros. Esta sesión proporciona una visión general del marco de trabajo desde una perspectiva arquitectónica y presenta algunos detalles de la implementación de referencia, basados en el repositorio JCR.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*Enviado el 17 de abril de 2013*
+*Publicado el 17 de abril de 2013*
 
 **Presentado por:**
 
@@ -30,6 +30,6 @@ John Fait
 
 ## Vínculos relacionados {#related-links}
 
-* [Documentación](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [Página de producto de DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [Cloud Service de DPS](https://digitalpublishing.acrobat.com/welcome.html)
+* [Documentación](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html).
+* [Página de productos DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [CLOUD SERVICE DPS](https://digitalpublishing.acrobat.com/welcome.html)

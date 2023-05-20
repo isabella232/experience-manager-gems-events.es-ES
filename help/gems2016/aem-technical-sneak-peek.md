@@ -1,5 +1,5 @@
 ---
-title: Pico técnico
+title: Sneak Peek técnico
 description: Únase a Gabriel Walt y Justin Edelson para echar un vistazo a lo que hemos estado trabajando para la próxima generación de Adobe Experience Manager en una charla técnica.
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
@@ -12,18 +12,18 @@ ht-degree: 2%
 
 ---
 
-# Pico técnico{#technical-sneak-peek}
+# Sneak Peek técnico{#technical-sneak-peek}
 
 Únase a Gabriel Walt y Justin Edelson para echar un vistazo a lo que hemos estado trabajando para la próxima generación de Adobe Experience Manager en una charla técnica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
-*Enviado el 13 de abril de 2016*
+*Publicado el 13 de abril de 2016*
 
 **Presentado por:**
 
-* Gabriel Walt, responsable de producto, Adobe
-* Justin Edelson, arquitecto y evangelista de Experience, Adobe
+* Gabriel Walt, Product Manager, Adobe
+* Justin Edelson, arquitecto de experiencias y evangelista, Adobe
 
 **Diapositivas del presentador**
 

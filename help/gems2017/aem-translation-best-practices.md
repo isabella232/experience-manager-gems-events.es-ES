@@ -1,29 +1,29 @@
 ---
-title: 'AEM 6.3 Listo para el mundo: integración de traducciones y prácticas recomendadas'
-description: 'En esta sesión, presentaremos AEM 6.3 capacidades y prácticas recomendadas para administrar sitios web multilingües. Aprenderá a estructurar los sitios web globales en AEM, cómo usar copias de idiomas, Live Copy y MSM, y cómo integrar proveedores de servicios de traducción para completar con éxito los proyectos de traducción. '
+title: 'AEM.3 Listo para el mundo: integración de traducciones y prácticas recomendadas'
+description: AEM En esta sesión, presentaremos las funciones y prácticas recomendadas de la versión 6.3 de la para administrar sitios web multilingües. AEM Aprenderá a estructurar los sitios web globales en la traducción, a utilizar copias de idioma, Live Copies y MSM, y a integrar a los proveedores de servicios de traducción para completar con éxito los proyectos de traducción.
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a4aaf0e-45f7-4b22-ac32-aee1be111553
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 1%
 
 ---
 
+# AEM.3 Listo para el mundo: integración de traducciones y prácticas recomendadas{#aem-ready-for-the-world-translation-integration-best-practices}
 
-# AEM 6.3 Listo para el mundo: integración de traducciones y prácticas recomendadas{#aem-ready-for-the-world-translation-integration-best-practices}
-
-En esta sesión, presentaremos AEM 6.3 capacidades y prácticas recomendadas para administrar sitios web multilingües. Aprenderá a estructurar los sitios web globales en AEM, cómo usar copias de idiomas, Live Copy y MSM, y cómo integrar proveedores de servicios de traducción para completar con éxito los proyectos de traducción.
+AEM En esta sesión, presentaremos las funciones y prácticas recomendadas de la versión 6.3 de la para administrar sitios web multilingües. AEM Aprenderá a estructurar los sitios web globales en la traducción, a utilizar copias de idioma, Live Copies y MSM, y a integrar a los proveedores de servicios de traducción para completar con éxito los proyectos de traducción.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*Enviado el 25 de octubre de 2017*
+*Publicado el 25 de octubre de 2017*
 
 **Presentado por:**
 
 Leandro Reis, Arquitecto de Globalización, Servicios Principales de Adobe\
-Mathias Siegel, Director de Productos senior, [!DNL AEM Sites], Adobe
+Mathias Siegel, Director de producto de Sr, [!DNL AEM Sites], ADOBE
 
 **Diapositivas del presentador**
 

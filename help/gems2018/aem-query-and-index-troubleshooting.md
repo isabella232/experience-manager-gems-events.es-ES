@@ -1,6 +1,6 @@
 ---
-title: Solución de problemas de índices y consultas de AEM
-description: Esta es una continuación de la sesión del año pasado AEM Indexación y Consulta JCR. Abarca los mismos temas, pero con contenido completamente nuevo y poco se superpone con la presentación anterior. También se incluyen las nuevas características de AEM 6.4.
+title: AEM Solución de problemas de consultas e índices
+description: AEM Esto es una continuación de la sesión del año pasado de Indexación de segmentos y Consulta JCR. Abarca los mismos temas, pero con contenido completamente nuevo y tiene poca superposición con la presentación anterior. AEM También se incluyen las nuevas funciones de la versión 6.4 de la versión de.
 page-status-flag: never-activated
 uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
@@ -15,17 +15,17 @@ ht-degree: 3%
 ---
 
 
-# Solución de problemas de índices y consultas de AEM{#aem-query-and-index-troubleshooting}
+# AEM Solución de problemas de consultas e índices{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*Entrega 08/08/2018*
+*Entregado el 08/08/2018*
 
 **Presentado por:**
 
 Thomas Mueller, ingeniero de software sénior, Adobe
 
-Fecha: 8/8/2018
+Fecha: 08/08/2018
 
 [Obtener archivo](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 

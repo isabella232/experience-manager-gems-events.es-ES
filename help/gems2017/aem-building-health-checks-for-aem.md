@@ -1,6 +1,6 @@
 ---
-title: Creación de comprobaciones de estado para AEM
-description: Determinar si una instancia de AEM está en buen estado no es una tarea sencilla. Esta sesión proporcionará información sobre la sección Informes de estado del panel de operaciones.
+title: AEM Generación de comprobaciones de estado para la
+description: AEM La determinación de si una instancia de está en buen estado no es una tarea sencilla. En esta sesión se proporcionará información sobre la sección Informes de estado del tablero de operaciones.
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 1%
 
 ---
 
-# Creación de comprobaciones de estado para AEM{#building-health-checks-for-aem}
+# AEM Generación de comprobaciones de estado para la{#building-health-checks-for-aem}
 
-Determinar si una instancia de AEM está en buen estado no es una tarea sencilla. En esta sesión se analizará la sección Informes de estado del panel de operaciones: una colección de comprobaciones predeterminadas, basadas en nuestras recomendaciones de seguridad y rendimiento y desarrolladas utilizando el marco de comprobación de estado de Sling. Encontrará cómo arreglar algunas de las comprobaciones de estado que suelen fallar, cómo comprobar sus resultados con herramientas externas y cómo escribir sus propias comprobaciones específicas de las aplicaciones.
+AEM La determinación de si una instancia de está en buen estado no es una tarea sencilla. En esta sesión se proporcionará información sobre la sección Informes de estado del tablero de operaciones: una recopilación de comprobaciones integradas, basadas en nuestras recomendaciones de seguridad y rendimiento y desarrolladas mediante el marco de trabajo Comprobación de estado de Sling. Descubrirá cómo corregir algunas de las comprobaciones de estado que suelen fallar, cómo comprobar sus resultados con herramientas externas y cómo escribir sus propias comprobaciones específicas de la aplicación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*Enviado el 12 de julio de 2017*
+*Publicado el 12 de julio de 2017*
 
 **Ana Vinatoru, ingeniera de software, Adobe**
 
@@ -28,5 +28,5 @@ Determinar si una instancia de AEM está en buen estado no es una tarea sencilla
 
 ## Vínculos relacionados {#related-links}
 
-* [Documentación AEM](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
+* [AEM Documentación de](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
 * [Documentación de Sling](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

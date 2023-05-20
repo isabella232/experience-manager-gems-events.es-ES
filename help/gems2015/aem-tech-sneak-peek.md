@@ -1,5 +1,5 @@
 ---
-title: AEM Tech Sneek Peek
+title: AEM Sneak Peek de tecnología
 description: Eche un vistazo a lo que hemos estado trabajando para la próxima generación de Adobe Experience Manager en una charla técnica.
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
@@ -12,17 +12,17 @@ ht-degree: 3%
 
 ---
 
-# AEM Tech Sneek Peek{#aem-tech-sneak-peek}
+# AEM Sneak Peek de tecnología{#aem-tech-sneak-peek}
 
 Eche un vistazo a lo que hemos estado trabajando para la próxima generación de Adobe Experience Manager en una charla técnica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*Enviado el 21 de enero de 2015*
+*Publicado el 21 de enero de 2015*
 
 **Presentado por:**
 
-* Gabriel Walt, responsable de producto, Adobe
+* Gabriel Walt, Product Manager, Adobe
 
 **Diapositivas del presentador**
 

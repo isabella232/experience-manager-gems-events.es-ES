@@ -1,6 +1,6 @@
 ---
-title: Versión principal de Brand Portal y nueva implementación de referencia para Asset Share
-description: Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión le presentamos el nuevo Asset Share Commons de Adobe Assets.
+title: Versión principal de Brand Portal y nueva implementación de referencia para uso compartido de recursos
+description: Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión, le presentamos el nuevo Asset Share Commons de Adobe Assets.
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
@@ -12,27 +12,27 @@ ht-degree: 1%
 
 ---
 
-# Versión principal de Brand Portal y nueva implementación de referencia para Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
+# Versión principal de Brand Portal y nueva implementación de referencia para uso compartido de recursos{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión le presentaremos el nuevo Asset Share Commons de Adobe Assets.
+Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión, le presentaremos el nuevo Asset Share Commons de Adobe Assets.
 
-Aprenderá:
+Aprenderá lo siguiente:
 
-* Qué opciones del portal de medios están disponibles en función de los casos de uso
-* Implementación de estas opciones
+* Qué opciones de Media Portal están disponibles según los casos de uso
+* Cómo implementar estas opciones
 * Prácticas recomendadas para garantizar la facilidad de uso
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*Enviado el 8 de noviembre de 2017*
+*Publicado el 8 de noviembre de 2017*
 
 **Presentado por:**
 
-Mike Carley, responsable de marketing de producto - [!DNL AEM Assets], Adobe
+Mike Carley, responsable de marketing de producto, [!DNL AEM Assets], ADOBE
 
-Krishna Selvaraj, ingeniera técnica de marketing - AEM, Adobe
+AEM Krishna Selvaraj, Ingeniero Técnico de Marketing -, Adobe
 
-Daniel Gordon, ingeniero técnico de marketing - AEM, Adobe
+AEM Daniel Gordon, Ingeniero Técnico de Marketing -, Adobe
 
 **Diapositivas del presentador**
 

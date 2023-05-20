@@ -1,6 +1,6 @@
 ---
-title: Enviar contenido administrado a sus aplicaciones nativas
-description: Aunque es posible que no esté en condiciones de pasar completamente al uso de las tecnologías web y el desarrollo entre plataformas que proporciona PhoneGap Enterprise, aún es posible aprovechar el poder de la AEM añadiendo contenido web directamente a sus aplicaciones nativas existentes. Esta sesión tratará en detalle cómo el contenido creado con AEM aplicaciones se puede integrar con una aplicación de Android existente. Una vez integrado en la aplicación nativa, el contenido AEM se puede actualizar sin necesidad de desarrollo nativo adicional y puede comunicarse con el resto de la aplicación nativa.
+title: Entrega de contenido administrado a sus aplicaciones nativas
+description: AEM Aunque es posible que no esté en posición de pasar completamente al uso de tecnologías web y al desarrollo entre plataformas proporcionado por PhoneGap Enterprise, aún es posible aprovechar el poder de la añadiendo contenido web directamente en sus aplicaciones nativas existentes. AEM En esta sesión se explicará en detalle cómo se puede integrar el contenido creado con aplicaciones de con una aplicación de Android existente. AEM Una vez integrado en la aplicación nativa, el contenido de la se puede actualizar sin necesidad de ningún desarrollo nativo y se puede comunicar con el resto de la aplicación nativa.
 uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
@@ -12,17 +12,17 @@ ht-degree: 0%
 
 ---
 
-# Enviar contenido administrado a sus aplicaciones nativas{#delivering-managed-content-to-your-native-apps}
+# Entrega de contenido administrado a sus aplicaciones nativas{#delivering-managed-content-to-your-native-apps}
 
-Aunque es posible que no esté en condiciones de pasar completamente al uso de las tecnologías web y el desarrollo entre plataformas que proporciona PhoneGap Enterprise, aún es posible aprovechar el poder de la AEM añadiendo contenido web directamente a sus aplicaciones nativas existentes. Esta sesión tratará en detalle cómo el contenido creado con AEM aplicaciones se puede integrar con una aplicación de Android existente. Una vez integrado en la aplicación nativa, el contenido AEM se puede actualizar sin necesidad de desarrollo nativo adicional y puede comunicarse con el resto de la aplicación nativa.
+AEM Aunque es posible que no esté en posición de pasar completamente al uso de tecnologías web y al desarrollo entre plataformas proporcionado por PhoneGap Enterprise, aún es posible aprovechar el poder de la añadiendo contenido web directamente en sus aplicaciones nativas existentes. AEM En esta sesión se explicará en detalle cómo se puede integrar el contenido creado con aplicaciones de con una aplicación de Android existente. AEM Una vez integrado en la aplicación nativa, el contenido de la se puede actualizar sin necesidad de ningún desarrollo nativo y se puede comunicar con el resto de la aplicación nativa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*Enviado el 10 de septiembre de 2014*
+*Publicado el 10 de septiembre de 2014*
 
 **Presentado por:**
 
-Anthony Rumsey, experto informático, Adobe
+Anthony Rumsey, informático, Adobe
 
 **Diapositivas del presentador**
 

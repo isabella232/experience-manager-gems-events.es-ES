@@ -1,6 +1,6 @@
 ---
 title: Administración del contenido con el editor de plantillas de Adobe Experience Manager
-description: Con Adobe Experience Manager 6.2 se ha introducido un nuevo editor de plantillas que proporciona nuevas y poderosas formas de crear, estructurar y configurar propiedades digitales. Explore la función desde una perspectiva de superautor para comprender cómo permite componer distintas plantillas de página y controlar exactamente qué autores de contenido pueden hacer en las páginas correspondientes. Finalmente, sumérjase en la mecánica interior para entender cómo funciona bajo el capó.
+description: Con Adobe Experience Manager 6.2 se ha introducido un nuevo editor de plantillas que proporciona nuevas y potentes formas de crear, estructurar y configurar propiedades digitales. Explore la función desde la perspectiva de un superautor para comprender cómo permite componer distintas plantillas de página y controlar exactamente qué pueden hacer los autores de contenido en las páginas correspondientes. Finalmente, sumergirse en la mecánica interna para comprender cómo funciona bajo el capó.
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
@@ -14,19 +14,19 @@ ht-degree: 3%
 
 # Administración del contenido con el editor de plantillas de Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 
-Con Adobe Experience Manager 6.2 se ha introducido un nuevo editor de plantillas que proporciona nuevas y poderosas formas de crear, estructurar y configurar propiedades digitales. Explore la función desde una perspectiva de superautor para comprender cómo permite componer distintas plantillas de página y controlar exactamente qué autores de contenido pueden hacer en las páginas correspondientes. Finalmente, sumérjase en la mecánica interior para entender cómo funciona bajo el capó. En esta sesión: - Aprenda cómo el editor de plantillas puede hacer que los sitios sean más flexibles - Obtenga información general sobre cómo funcionan los mecanismos de creación de plantillas
+Con Adobe Experience Manager 6.2 se ha introducido un nuevo editor de plantillas que proporciona nuevas y potentes formas de crear, estructurar y configurar propiedades digitales. Explore la función desde la perspectiva de un superautor para comprender cómo permite componer distintas plantillas de página y controlar exactamente qué pueden hacer los autores de contenido en las páginas correspondientes. Finalmente, sumergirse en la mecánica interna para comprender cómo funciona bajo el capó. En esta sesión: - Aprenda cómo el editor de plantillas puede hacer que los sitios sean más flexibles - Obtenga información general sobre cómo funcionan los mecanismos de creación de plantillas
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Entrega: 14 de septiembre de 2016*
+*Publicado el 14 de septiembre de 2016*
 
 **Presentado por:**
 
-* Patrick Fauchere, ingeniero de software, Adobe
+* Patrick Fauchere, Ingeniero de software, Adobe
 
 Experto en chat,
 
-* Gabriel Walt, responsable de producto, Adobe
+* Gabriel Walt, Product Manager, Adobe
 
 **Diapositivas del presentador**
 
