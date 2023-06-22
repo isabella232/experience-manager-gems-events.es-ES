@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM Sesiones de GEM de
-source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
+source-git-commit: e499198cba2a36b4abd389932254b1ff1285caf6
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM Evento anterior de GEMS de la
+## AEM ¡Próximo evento de GEM de!
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,10 +43,10 @@ ht-degree: 2%
 </table>
 
 --->
-AEM Nuestro último seminario web de GEM de la sobre **Aceleración del desarrollo de Cloud Service de Adobe Experience Manager con entornos de desarrollo rápido** se ha realizado el *22 de febrero de 2023*.
-El **grabación** se puede encontrar aquí: [AEM Seminario web de entornos de desarrollo rápido](/help/gems2023/Rapid-Development-Environments.md)
+Próximamente el **28 de junio, 8 a. m PST** AEM tenemos un seminario web sobre la certificación de la (técnica): **Domine el arte de la certificación de Experience Manager: ¡Prepárese, prepárese, obtenga la certificación!**
 
 >[!NOTE]
+> Es necesario registrarse en el próximo evento; regístrese en nuestro [Página de evento](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-master-the-art-of-experience-manager-certification-get-ready-get-set-get-certified/).
 >
 > AEM Regístrese para recibir notificaciones sobre futuros seminarios web de GEM en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
 
