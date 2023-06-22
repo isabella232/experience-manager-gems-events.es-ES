@@ -3,9 +3,9 @@ user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: AEM Obtenga información acerca de Gems de, una serie de conocimientos técnicos que ofrecen los expertos de Adobe Experience Manager.
 breadcrumb-title: AEM Eventos de GEMs de
 feature-set: Experience Manager
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: 401634150d018e42a35556a0e5d9df19ed7ec74f
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '639'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 
 + [Información general](overview.md)
 + 2023 {#gems2023}
+   + [AEM Certificación de: técnica](/help/gems2023/aem-certification-technical.md)
    + [Acelerar el desarrollo as a Cloud Service Experience Manager con entornos de desarrollo rápido](/help/gems2023/Rapid-Development-Environments.md)
    + [AEM Analizador de prácticas recomendadas para entornos locales y de AMS](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
