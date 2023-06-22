@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Domine el arte de la certificación de Experience Manager: ¡Prepárese, prepárese, obtenga la certificación!
 
-Este seminario web se celebrará el 28 de junio de 2023 (8 a. m. PST). Regístrese mediante este [vínculo de página de evento](https://adobe.ly/3Ni6XeL).
+Este seminario web se llevará a cabo el **28 de junio**, 2023 (8 a. m PST). Regístrese mediante este [vínculo de página de evento](https://adobe.ly/3Ni6XeL).
 
 ## Descripción de sesión
 
